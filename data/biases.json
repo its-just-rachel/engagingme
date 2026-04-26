@@ -1,0 +1,974 @@
+[
+  {
+    "id": "recJKdP5D9PXnQ1cc",
+    "name": "Anchoring",
+    "description": "We rely heavily on the first piece of information introduced when making decisions.",
+    "domain_tags": [
+      "Learning",
+      "Belief",
+      "Money",
+      "Memory"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "receMaMjE3iKUQQ2S",
+      "rec1NBpwtbo7Nttp1",
+      "recDrGdm6igQ7pFJo",
+      "recycZGhOY0qhWTXk"
+    ],
+    "notes": "Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131."
+  },
+  {
+    "id": "recIAFAhEXcBLQuE4",
+    "name": "Authority Bias",
+    "description": "We trust and are more often influenced by the opinions of authority figures.",
+    "domain_tags": [
+      "Social",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recN5NMjDBXiGWITQ",
+      "reccF7LbO7tjVXmcK",
+      "recaNRVpt6UWBMXfT",
+      "recLevDcKFF9FgzJ9",
+      "recqeY1wrFi3vaoy3"
+    ],
+    "notes": "Source: Cialdini, R.B. (1984). Influence: The Psychology of Persuasion. Harper Business. Empirical foundation: Milgram, S. (1974). Obedience to Authority. Harper & Row."
+  },
+  {
+    "id": "recy5aWDVmI6bvy6C",
+    "name": "Automation Bias",
+    "description": "We over-rely on automated systems and their outputs, accepting recommendations from automated decision-support tools without sufficient critical evaluation — even when we have information that should cause us to question or override the automated suggestion.",
+    "domain_tags": [
+      "Learning",
+      "Memory",
+      "Belief"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recBkjzuNXZat0Mum",
+      "rec9IIaa5TdtOJbkm",
+      "recrsxadx0LKIc7c7",
+      "recQwuZR2OnhiRqCX"
+    ],
+    "notes": "Source: Parasuraman, R., & Manzey, D.H. (2010). Complacency and bias in human use of automation: An attentional integration. Human Factors, 52(3), 381–410. Particularly relevant to agentic AI: users who delegate tasks to an agent may accept its outputs without the scrutiny they would apply to their own reasoning or a human advisor's recommendation."
+  },
+  {
+    "id": "recs1qew565kbyCEg",
+    "name": "Availability Cascade",
+    "description": "A self-reinforcing process in which collective belief in a claim grows through repeated public assertion, making the claim feel increasingly credible regardless of the underlying evidence.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Learning",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recbbz5SctLW9xEl7",
+      "reciwdTJWAUgtFTkl",
+      "recQwuZR2OnhiRqCX"
+    ],
+    "notes": "Source: Kuran, T., & Sunstein, C.R. (1999). Availability cascades and risk regulation. Stanford Law Review, 51(4), 683–768. Mechanism: availability heuristic + social reinforcement. Distinct from Bandwagon Effect (which describes the spread of preferences) — Availability Cascade specifically concerns perceived credibility of claims through repetition volume. Expert reviewer flagged: Dr. Sean Guillory, PhD (misinformation/disinformation research) — seek commentary before publication."
+  },
+  {
+    "id": "rec1mQOkbN30aQmv1",
+    "name": "Availability Heuristic",
+    "description": "We rely on immediate examples that come to mind while making judgments.",
+    "domain_tags": [
+      "Memory",
+      "Learning",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recAdvy5h72mtZXUB",
+      "reciwdTJWAUgtFTkl",
+      "recQixepbVcZohgEZ",
+      "recnYHcCdQMhhmr5v"
+    ],
+    "notes": "Source: Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232."
+  },
+  {
+    "id": "recXHDXuSZFrWI48N",
+    "name": "Backfire Effect",
+    "description": "In some conditions, exposure to corrective information may reinforce rather than reduce existing beliefs, particularly when those beliefs are tied to identity or worldview — though this effect has not replicated reliably across general population contexts.",
+    "domain_tags": [
+      "Learning",
+      "Memory",
+      "Belief",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recAdvy5h72mtZXUB",
+      "recovreoq8oKbYgdK",
+      "recN5NMjDBXiGWITQ"
+    ],
+    "notes": "Original finding: Nyhan, B., & Reifler, J. (2010). When corrections fail. Political Behavior, 32(2), 303–330. Replication challenge: Wood, T., & Porter, E. (2019). The elusive backfire effect. Political Behavior, 41(1), 135–163. Effect appears strongest under high identity-threat conditions; general robustness is contested. Description reflects current contested status while preserving the entry's relevance to design contexts where identity is implicated."
+  },
+  {
+    "id": "recXuxCGgf8mokQ7m",
+    "name": "Bandwagon Effect",
+    "description": "Ideas, fads, and beliefs grow as more people adopt them.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "reciwdTJWAUgtFTkl",
+      "recIEGcrF81PMN4XN",
+      "recbbz5SctLW9xEl7",
+      "rec45WDvarL4TGUYP"
+    ],
+    "notes": "Source: Leibenstein, H. (1950). Bandwagon, snob, and Veblen effects in the theory of consumers' demand. Quarterly Journal of Economics, 64(2), 183–207. Persuasion framing: Cialdini, R.B. (1984). Influence: The Psychology of Persuasion. Harper Business. Distinct from Social Proof (bias_social_proof): Bandwagon describes macro-level spread of preferences; Social Proof describes the underlying uncertainty-driven mechanism."
+  },
+  {
+    "id": "rec2rqojOG1hhtMBg",
+    "name": "Belief Bias",
+    "description": "We judge an argument's strength not by how strongly it supports the conclusion but how plausible the conclusion is in our own minds.",
+    "domain_tags": [
+      "Learning",
+      "Memory",
+      "Belief",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recovreoq8oKbYgdK",
+      "recAdvy5h72mtZXUB",
+      "recN5NMjDBXiGWITQ"
+    ],
+    "notes": "Source: Evans, J.St.B.T., Barston, J.L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. Memory & Cognition, 11(3), 295–306."
+  },
+  {
+    "id": "recADSRlVuObq9tMY",
+    "name": "Ben Franklin Effect",
+    "description": "We like doing favors; we are more likely to do another favor for someone if we've already done a favor for them than if we had received a favor from that person.",
+    "domain_tags": [
+      "Social",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recFrQbBXL7ldCzdW",
+      "recFtLkiCmACOg3DV",
+      "recuZ8RB7879zpCIp",
+      "recQwuZR2OnhiRqCX"
+    ],
+    "notes": "Source: Jecker, J., & Landy, D. (1969). Liking a person as a function of doing him a favour. Human Relations, 22(4), 371–378. Franklin, B. (1771/1996). The Autobiography of Benjamin Franklin. Dover Publications (original description of the phenomenon)."
+  },
+  {
+    "id": "reck35qrepsfsJGR1",
+    "name": "Blind Spot Bias",
+    "description": "We don’t think we have bias, and we see it others more than ourselves.",
+    "domain_tags": [
+      "Memory",
+      "Belief",
+      "Learning",
+      "Social"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "reciwdTJWAUgtFTkl",
+      "recAdvy5h72mtZXUB"
+    ],
+    "notes": "Source: Pronin, E., Lin, D.Y., & Ross, L. (2002). The bias blind spot: Perceptions of bias in self versus others. Personality and Social Psychology Bulletin, 28(3), 369–381."
+  },
+  {
+    "id": "recgsDIG3rZOwrsbD",
+    "name": "Bystander Effect",
+    "description": "The more other people are around, the less likely we are to help a victim.",
+    "domain_tags": [
+      "Social",
+      "Money"
+    ],
+    "risk_level": "LOW",
+    "tactic_ids": [
+      "recnOCddaGYEzvtJr",
+      "recFrQbBXL7ldCzdW",
+      "recIEGcrF81PMN4XN"
+    ],
+    "notes": "Source: Darley, J.M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4), 377–383."
+  },
+  {
+    "id": "recgy7n1EP6DpfUvJ",
+    "name": "Clustering Illusion",
+    "description": "We find patterns and “clusters” in random data.",
+    "domain_tags": [
+      "Memory",
+      "Belief"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recAdvy5h72mtZXUB",
+      "recNtGRetsgkwWYr9"
+    ],
+    "notes": "Source: Gilovich, T. (1991). How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life. Free Press."
+  },
+  {
+    "id": "rec7wrR3zmKU4jzvb",
+    "name": "Confirmation Bias",
+    "description": "We tend to find and remember information that confirms our perceptions.",
+    "domain_tags": [
+      "Learning",
+      "Memory",
+      "Belief",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "receV0Sq5u93t2ntT",
+      "rec42uvZXm5ALnOQw",
+      "recFnd9fPRz65ljBx",
+      "rec45WDvarL4TGUYP",
+      "recAdvy5h72mtZXUB"
+    ],
+    "notes": "Source: Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175–220. Original experimental work: Wason, P.C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129–140."
+  },
+  {
+    "id": "recZQzTKU6JTRFb8R",
+    "name": "Cryptomnesia",
+    "description": "We mistake real memories for imagination.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Belief"
+    ],
+    "risk_level": "LOW",
+    "tactic_ids": [
+      "recKKdHxLsvBVKkCB",
+      "recnYHcCdQMhhmr5v"
+    ],
+    "notes": "Source: Brown, A.S., & Murphy, D.R. (1989). Cryptomnesia: Deluding oneself into believing one has created something new. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432–442."
+  },
+  {
+    "id": "rec6yTTPGid9BDbwg",
+    "name": "Curse of Knowledge",
+    "description": "Once we know something, we assume everyone else knows it, too.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "LOW",
+    "tactic_ids": [
+      "recBprXr24xtsLo7q",
+      "recEP1l4dnTYXKLnG",
+      "recNtGRetsgkwWYr9",
+      "rec4Ps8aZchJvYSEB"
+    ],
+    "notes": "Source: Camerer, C., Loewenstein, G., & Weber, M. (1989). The curse of knowledge in economic settings: An experimental analysis. Journal of Political Economy, 97(5), 1232–1254."
+  },
+  {
+    "id": "rec9LHKbuC3gYm5Ni",
+    "name": "Declinism",
+    "description": "We tend to romanticize the past and view the future negatively, believing that societies/institutions are by and large in decline.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Belief",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recQixepbVcZohgEZ",
+      "rec1NBpwtbo7Nttp1",
+      "recDrGdm6igQ7pFJo"
+    ],
+    "notes": "Widely documented cognitive tendency; no single canonical empirical source. Context: Pinker, S. (2018). Enlightenment Now: The Case for Reason, Science, Humanism, and Progress. Viking (provides systematic counterevidence to declinism as empirical claim)."
+  },
+  {
+    "id": "reco7c8lSvR8dvmRH",
+    "name": "Defensive Attribution",
+    "description": "As a witness who secretly fears being vulnerable to a serious mishap, we will blame the victim less if we relate to the victim.",
+    "domain_tags": [
+      "Politics",
+      "Social",
+      "Memory"
+    ],
+    "risk_level": "LOW",
+    "tactic_ids": [
+      "recQixepbVcZohgEZ",
+      "rec00gmKJgO2okkJJ",
+      "recwZjNPyoBYJ3C0S"
+    ],
+    "notes": "Source: Shaver, K.G. (1970). Defensive attribution: Effects of severity and relevance on the responsibility assigned for an accident. Journal of Personality and Social Psychology, 14(2), 101–113."
+  },
+  {
+    "id": "recbRvjdCA5zWgOn2",
+    "name": "Dunning-Kruger Effect",
+    "description": "The less you know, the more confident you are. The more you know, the less confident you are.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Learning",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "rec6ebBwBeqRn1FHe",
+      "reccF7LbO7tjVXmcK",
+      "recAdvy5h72mtZXUB"
+    ],
+    "notes": "Source: Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121–1134. Note: author order in citation is Kruger & Dunning, not Dunning-Kruger."
+  },
+  {
+    "id": "recFrjloQ1hSZlakW",
+    "name": "False Consensus",
+    "description": "We believe more people agree with us than is actually the case.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "reciwdTJWAUgtFTkl",
+      "rec45WDvarL4TGUYP",
+      "recIEGcrF81PMN4XN"
+    ],
+    "notes": "Source: Ross, L., Greene, D., & House, P. (1977). The 'false consensus effect': An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279–301."
+  },
+  {
+    "id": "recM59aU8TW9h5ZnW",
+    "name": "False Memory",
+    "description": "We mistake imagination for real memories.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Belief"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recnYHcCdQMhhmr5v",
+      "recQixepbVcZohgEZ"
+    ],
+    "notes": "Sources: Loftus, E.F., & Pickrell, J.E. (1995). The formation of false memories. Psychiatric Annals, 25(12), 720–725; Roediger, H.L., & McDermott, K.B. (1995). Creating false memories: Remembering words not presented in lists. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(4), 803–814."
+  },
+  {
+    "id": "recHV9QFEwKwky7oT",
+    "name": "Forer Effect (aka Barnum Effect)",
+    "description": "We easily attribute our personalities to vague statements, even if they can apply to a wide range of people.",
+    "domain_tags": [
+      "Memory",
+      "Belief"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "rec42uvZXm5ALnOQw",
+      "rec8MIkn6jFTNBYYY",
+      "recKKdHxLsvBVKkCB",
+      "reczJF0eQk7U3XwGb"
+    ],
+    "notes": "Source: Forer, B.R. (1949). The fallacy of personal validation: A classroom demonstration of gullibility. Journal of Abnormal and Social Psychology, 44(1), 118–123."
+  },
+  {
+    "id": "recSPCqXdqSWnTd38",
+    "name": "Framing Effect",
+    "description": "We often draw different conclusions from the same information depending on how it's presented.",
+    "domain_tags": [
+      "Social",
+      "Learning",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "receMaMjE3iKUQQ2S",
+      "rec1NBpwtbo7Nttp1",
+      "recovreoq8oKbYgdK",
+      "recEAdiktmRSyTgbX"
+    ],
+    "notes": "Source: Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458."
+  },
+  {
+    "id": "recXufHnxClHepoyn",
+    "name": "Fundamental Attribution Error",
+    "description": "We judge others on their personality or fundamental character, but we judge ourselves on the situation.",
+    "domain_tags": [
+      "Social",
+      "Belief"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "rec00gmKJgO2okkJJ",
+      "recvW9GWrF6BaRTpm",
+      "recQixepbVcZohgEZ"
+    ],
+    "notes": "Source: Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. Advances in Experimental Social Psychology, 10, 173–220."
+  },
+  {
+    "id": "recOwiCvYpDaFI8hi",
+    "name": "Gambler's Fallacy",
+    "description": "We think future possibilities are affected by past events.",
+    "domain_tags": [
+      "Memory",
+      "Belief",
+      "Money"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recAdvy5h72mtZXUB",
+      "recwZjNPyoBYJ3C0S"
+    ],
+    "notes": "Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131."
+  },
+  {
+    "id": "recwtMIXlbXLlBAkC",
+    "name": "Google Effect (aka Digital Amnesia)",
+    "description": "We tend to forget information that’s easily looked up in search engines.",
+    "domain_tags": [
+      "Learning",
+      "Memory",
+      "Belief"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recfPae6w5E6bIYfo",
+      "rec0LiNqIkQCRO39z",
+      "recY7r8DsmnF70h9D"
+    ],
+    "notes": "Source: Sparrow, B., Liu, J., & Wegner, D.M. (2011). Google effects on memory: Cognitive consequences of having information at our fingertips. Science, 333(6043), 776–778."
+  },
+  {
+    "id": "recNDRMPoxltyyDKK",
+    "name": "Groupthink",
+    "description": "Due to a desire for conformity and harmony in the group, we make irrational decisions, often to minimize conflict.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "reciwdTJWAUgtFTkl",
+      "recnOCddaGYEzvtJr",
+      "rec00gmKJgO2okkJJ"
+    ],
+    "notes": "Source: Janis, I.L. (1972). Victims of Groupthink: A Psychological Study of Foreign-Policy Decisions and Fiascoes. Houghton Mifflin."
+  },
+  {
+    "id": "recLRMuMHQmKJOT7F",
+    "name": "Halo Effect",
+    "description": "If you see a person as having a positive trait, that positive impression will spill over into their other traits. (This also works for negative traits.)",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recdUVKRqdXi3EhgZ",
+      "recl3wY5QfDFWuGqq",
+      "recKKdHxLsvBVKkCB",
+      "recVssvgi0cji8ZfG",
+      "rec8MIkn6jFTNBYYY"
+    ],
+    "notes": "Source: Thorndike, E.L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25–29."
+  },
+  {
+    "id": "rec7EdtK9CrWftm2F",
+    "name": "IKEA Effect",
+    "description": "We place higher value on things we partially created ourselves.",
+    "domain_tags": [
+      "Social",
+      "Belief",
+      "Money"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recYyK25ihoveewJg",
+      "recFtLkiCmACOg3DV",
+      "recQNQTcQ1MmvD54R",
+      "recwENfVF2tf2aUXJ",
+      "recuZ8RB7879zpCIp"
+    ],
+    "notes": "Source: Norton, M.I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453–460."
+  },
+  {
+    "id": "recFMNCdA0YshqFHN",
+    "name": "In-Group Favoritism",
+    "description": "We favor people who are in our in-group as opposed to an out-group.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "rec00gmKJgO2okkJJ",
+      "recIEGcrF81PMN4XN",
+      "rec8MIkn6jFTNBYYY",
+      "recFtLkiCmACOg3DV"
+    ],
+    "notes": "Source: Tajfel, H., & Turner, J.C. (1979). An integrative theory of intergroup conflict. In W.G. Austin & S. Worchel (Eds.), The Social Psychology of Intergroup Relations (pp. 33–47). Brooks/Cole."
+  },
+  {
+    "id": "recYgPcSw0x9aL5R1",
+    "name": "Just-World Hypothesis",
+    "description": "We tend to believe the world is just; therefore, we assume acts of injustice are deserved.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social",
+      "Memory"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recQixepbVcZohgEZ",
+      "recQwuZR2OnhiRqCX",
+      "recovreoq8oKbYgdK"
+    ],
+    "notes": "Source: Lerner, M.J. (1980). The Belief in a Just World: A Fundamental Delusion. Plenum Press."
+  },
+  {
+    "id": "recXMb3zMGUjlH22W",
+    "name": "Law of Triviality (aka “Bike-Shedding”)",
+    "description": "We give disproportionate weight to trivial issues, often while avoiding more complex issues.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recNtGRetsgkwWYr9",
+      "recfmkCiZjJfCEAx7",
+      "recrsxadx0LKIc7c7"
+    ],
+    "notes": "Source: Parkinson, C.N. (1957). Parkinson's Law, and Other Studies in Administration. Houghton Mifflin."
+  },
+  {
+    "id": "reciIg9zQ7KbBaLJn",
+    "name": "Moral Luck",
+    "description": "Better moral standing happens due to a positive outcome; worse moral standing happens due to a negative outcome.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recEzzmeqDXF0vESM",
+      "recQwuZR2OnhiRqCX"
+    ],
+    "notes": "Sources: Williams, B. (1976). Moral luck. Proceedings of the Aristotelian Society, Supplementary Volumes, 50, 115–135; Nagel, T. (1976). Moral luck. Proceedings of the Aristotelian Society, Supplementary Volumes, 50, 137–151. Dual-origin philosophical concept."
+  },
+  {
+    "id": "recEt4bkBNM5mbR9e",
+    "name": "Naïve Cynicism",
+    "description": "We believe that we observe objective reality and that other people have a higher egocentric bias than they actually do in their intentions/actions.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social",
+      "Memory"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recMXHqONO9abVvHi",
+      "recN5NMjDBXiGWITQ",
+      "recLevDcKFF9FgzJ9"
+    ],
+    "notes": "Source: Kruger, J., & Gilovich, T. (1999). 'Naive cynicism' in everyday theories of responsibility assessment: On biased assumptions of bias. Journal of Personality and Social Psychology, 76(5), 743–753."
+  },
+  {
+    "id": "recQDUIOZ7aidLgNV",
+    "name": "Naïve Realism",
+    "description": "We believe that we observe objective reality and that other people are irrational, uninformed, or biased.",
+    "domain_tags": [
+      "Politics",
+      "Belief",
+      "Social",
+      "Memory"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recAdvy5h72mtZXUB",
+      "recovreoq8oKbYgdK"
+    ],
+    "notes": "Source: Ross, L., & Ward, A. (1996). Naive realism in everyday life: Implications for social conflict and misunderstanding. In T. Brown, E.S. Reed, & E. Turiel (Eds.), Values and Knowledge (pp. 103–135). Lawrence Erlbaum."
+  },
+  {
+    "id": "rectHxJs1bxNiMqQb",
+    "name": "Optimism Bias",
+    "description": "We sometimes are over-optimistic about good outcomes.",
+    "domain_tags": [
+      "Memory",
+      "Belief"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "rec9IIaa5TdtOJbkm",
+      "rec6ebBwBeqRn1FHe",
+      "recQixepbVcZohgEZ"
+    ],
+    "notes": "Source: Weinstein, N.D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806–820."
+  },
+  {
+    "id": "reckA7mvOM2D7UwVS",
+    "name": "Outgroup Homogeneity Bias",
+    "description": "We perceive out-group members as homogeneous and our own in-groups as more diverse.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Learning",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recFnd9fPRz65ljBx",
+      "rec42uvZXm5ALnOQw",
+      "rec8MIkn6jFTNBYYY",
+      "rec45WDvarL4TGUYP"
+    ],
+    "notes": "Source: Quattrone, G.A., & Jones, E.E. (1980). The perception of variability within in-groups and out-groups: Implications for the law of small numbers. Journal of Personality and Social Psychology, 38(1), 141–152."
+  },
+  {
+    "id": "recgZE7VsrrNbQeSy",
+    "name": "Pessimism Bias",
+    "description": "We sometimes overestimate the likelihood of bad outcomes.",
+    "domain_tags": [
+      "Memory",
+      "Belief"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recQixepbVcZohgEZ",
+      "rec1NBpwtbo7Nttp1",
+      "rec9IIaa5TdtOJbkm"
+    ],
+    "notes": "Source: Sharot, T. (2011). The optimism bias. Current Biology, 21(23), R941–R945. Pessimism bias is the inverse tendency; see also Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux."
+  },
+  {
+    "id": "recYiTmsRi3mAcJ9Q",
+    "name": "Placebo Effect",
+    "description": "If we believe a treatment will work, it often will have a small physiological effect.",
+    "domain_tags": [
+      "Memory",
+      "Belief",
+      "Money"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "rec9IIaa5TdtOJbkm",
+      "rec6ebBwBeqRn1FHe",
+      "recjifDSDUQFxek34"
+    ],
+    "notes": "Source: Beecher, H.K. (1955). The powerful placebo. Journal of the American Medical Association, 159(17), 1602–1606."
+  },
+  {
+    "id": "recX6eQprOQmMJx2X",
+    "name": "Reactance",
+    "description": "We do the opposite of what we're told, especially when we perceive threats to personal freedoms.",
+    "domain_tags": [
+      "Politics",
+      "Social",
+      "Money"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recDrGdm6igQ7pFJo",
+      "receMaMjE3iKUQQ2S",
+      "recZljeI3sYNBnxsN",
+      "recrzN0cYm8vE82b2"
+    ],
+    "notes": "Source: Brehm, J.W. (1966). A Theory of Psychological Reactance. Academic Press."
+  },
+  {
+    "id": "rec15IRFPYgQtMxdN",
+    "name": "Self-Serving Bias",
+    "description": "Our failures are situational, but our successes are our responsibility.",
+    "domain_tags": [
+      "Money",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recYyK25ihoveewJg",
+      "recFtLkiCmACOg3DV",
+      "rec8MIkn6jFTNBYYY"
+    ],
+    "notes": "Source: Zuckerman, M. (1979). Attribution of success and failure revisited, or: The motivational bias is alive and well in attribution theory. Journal of Personality, 47(2), 245–287."
+  },
+  {
+    "id": "recsniYBK8hrQnaWl",
+    "name": "Spotlight Effect",
+    "description": "We overestimate how much people are paying attention to our behavior and appearance.",
+    "domain_tags": [
+      "Memory",
+      "Social"
+    ],
+    "risk_level": "LOW",
+    "tactic_ids": [
+      "rec00gmKJgO2okkJJ",
+      "recZljeI3sYNBnxsN",
+      "recrzN0cYm8vE82b2"
+    ],
+    "notes": "Source: Gilovich, T., Medvec, V.H., & Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211–222."
+  },
+  {
+    "id": "recztDscKVPkZOu7T",
+    "name": "Status Quo Bias",
+    "description": "We tend to prefer things to stay the same; changes from the baseline are considered to be a loss.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Learning",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recDrGdm6igQ7pFJo",
+      "rec1NBpwtbo7Nttp1",
+      "recQwuZR2OnhiRqCX",
+      "recwZjNPyoBYJ3C0S"
+    ],
+    "notes": "Source: Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7–59. Related mechanism: Kahneman, D., & Tversky, A. (1979). Prospect Theory. Econometrica, 47(2), 263–291 (loss aversion underlies the preference for the status quo)."
+  },
+  {
+    "id": "recnrGma4LaBHpC7L",
+    "name": "Stereotyping",
+    "description": "We adopt generalized beliefs that members of a group will have certain characteristics, despite not having information about the individual.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Learning",
+      "Belief",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recFnd9fPRz65ljBx",
+      "rec42uvZXm5ALnOQw",
+      "rec8MIkn6jFTNBYYY",
+      "receV0Sq5u93t2ntT"
+    ],
+    "notes": "Source: Tajfel, H. (1981). Human Groups and Social Categories: Studies in Social Psychology. Cambridge University Press."
+  },
+  {
+    "id": "recQifDA2SCwpOqjt",
+    "name": "Suggestibility",
+    "description": "We, especially children, sometimes mistake ideas suggested by a questioner for memories.",
+    "domain_tags": [
+      "Memory",
+      "Social",
+      "Learning",
+      "Belief"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recQixepbVcZohgEZ",
+      "reciwdTJWAUgtFTkl",
+      "recAdvy5h72mtZXUB"
+    ],
+    "notes": "Source: Loftus, E.F. (1975). Leading questions and the eyewitness report. Cognitive Psychology, 7(4), 560–572."
+  },
+  {
+    "id": "recUVoSFSTsEUvVNT",
+    "name": "Sunk Cost Fallacy (aka Escalation of Commitment)",
+    "description": "We invest more in things that have cost us something rather than altering our investments, even if we face negative outcomes.",
+    "domain_tags": [
+      "Memory",
+      "Belief",
+      "Money"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recjifDSDUQFxek34",
+      "recuZ8RB7879zpCIp",
+      "recwENfVF2tf2aUXJ",
+      "recycZGhOY0qhWTXk",
+      "recEzzmeqDXF0vESM"
+    ],
+    "notes": "Source: Arkes, H.R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124–140."
+  },
+  {
+    "id": "rec50OLJbCY25Om8w",
+    "name": "Survivorship Bias",
+    "description": "We tend to focus on those things that survived a process and overlook ones that failed.",
+    "domain_tags": [
+      "Social",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recAdvy5h72mtZXUB",
+      "reciwdTJWAUgtFTkl",
+      "recQwuZR2OnhiRqCX"
+    ],
+    "notes": "Source: Wald, A. (1943). A method of estimating plane vulnerability based on damage of survivors. Statistical Research Group, Columbia University. Popular treatment: Taleb, N.N. (2001). Fooled by Randomness. Texere."
+  },
+  {
+    "id": "recf6iNbAwAJu8BRw",
+    "name": "Tachypsychia",
+    "description": "Our perceptions of time shift depending on trauma, drug use, and physical exertion.",
+    "domain_tags": [
+      "Memory",
+      "Learning",
+      "Belief"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recDrGdm6igQ7pFJo",
+      "recrsxadx0LKIc7c7",
+      "recfmkCiZjJfCEAx7"
+    ],
+    "notes": "No single canonical academic source; documented across trauma, emergency medicine, and forensic psychology literature. See: Artwohl, A. (2002). Perceptual and memory distortion during officer-involved shootings. FBI Law Enforcement Bulletin, 71(10), 18–24. Note: this is a physiological/perceptual stress response, distinct from cognitive decision-making biases in the K&T tradition."
+  },
+  {
+    "id": "rec0q5uGjEkfd1KdJ",
+    "name": "Third-Person Effect",
+    "description": "We believe that others are more affected by mass media consumption than we ourselves are.",
+    "domain_tags": [
+      "Learning",
+      "Memory",
+      "Belief",
+      "Politics",
+      "Social"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "reciwdTJWAUgtFTkl",
+      "recIEGcrF81PMN4XN",
+      "rec45WDvarL4TGUYP"
+    ],
+    "notes": "Source: Davison, W.P. (1983). The third-person effect in communication. Public Opinion Quarterly, 47(1), 1–15."
+  },
+  {
+    "id": "rec9iOtYFUtrE1nze",
+    "name": "Zeigarnik Effect",
+    "description": "We remember incomplete tasks more than completed ones.",
+    "domain_tags": [
+      "Memory",
+      "Belief"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recjifDSDUQFxek34",
+      "recBkjzuNXZat0Mum",
+      "reczwMt66lfr28kPt",
+      "recwENfVF2tf2aUXJ",
+      "recPXlmzp3IUJlGar"
+    ],
+    "notes": "Source: Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen [On finished and unfinished tasks]. Psychologische Forschung, 9, 1–85. English summary: Zeigarnik, B. (1938). In W.D. Ellis (Ed.), A Source Book of Gestalt Psychology (pp. 300–314). Harcourt Brace."
+  },
+  {
+    "id": "recsW3EQAk87MbGEq",
+    "name": "Zero-Risk Bias",
+    "description": "We prefer to reduce small risks to zero, even if we can reduce more risk overall with another option.",
+    "domain_tags": [
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "rec9IIaa5TdtOJbkm",
+      "rec1NBpwtbo7Nttp1",
+      "recwZjNPyoBYJ3C0S"
+    ],
+    "notes": "Source: Viscusi, W.K., Magat, W.A., & Huber, J. (1987). An investigation of the rationality of consumer valuations of multiple health risks. RAND Journal of Economics, 18(4), 465–479. Related: Kahneman, D., & Tversky, A. (1979). Prospect Theory. Econometrica, 47(2), 263–291."
+  },
+  {
+    "id": "bias_loss_aversion",
+    "name": "Loss Aversion",
+    "description": "We feel losses more intensely than equivalent gains — the pain of losing something is roughly twice as powerful as the pleasure of gaining something of equal value. We are more motivated to avoid losing what we have than to acquire equivalent new value.",
+    "domain_tags": [
+      "Money",
+      "Belief",
+      "Social",
+      "Learning"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recDrGdm6igQ7pFJo",
+      "rec1NBpwtbo7Nttp1",
+      "receMaMjE3iKUQQ2S",
+      "recEzzmeqDXF0vESM",
+      "recEAdiktmRSyTgbX"
+    ],
+    "notes": "Added to model 2026-04-25. Core mechanism of urgency and scarcity dark patterns. Distinct from Status Quo Bias (preference for current state) and Declinism (pessimism about the future). Source: Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263–291."
+  },
+  {
+    "id": "bias_reciprocity",
+    "name": "Reciprocity",
+    "description": "We feel a strong social obligation to return favors and gifts — even unsolicited ones. Receiving something creates psychological pressure to give something back, which can be exploited by offering small gifts or gestures strategically to generate a sense of indebtedness.",
+    "domain_tags": [
+      "Social",
+      "Money",
+      "Belief",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recycZGhOY0qhWTXk",
+      "recIEGcrF81PMN4XN",
+      "recuZ8RB7879zpCIp",
+      "rec533oHjVb8mazj3"
+    ],
+    "notes": "Added to model 2026-04-25. Distinct from Ben Franklin Effect (recADSRlVuObq9tMY): reciprocity is obligation to return a favor done FOR you; Ben Franklin is about liking those you've done favors FOR. Core mechanism of gift-before-ask and sequential request tactics. Source: Cialdini, R.B. (1984). Influence: The Psychology of Persuasion. Harper Business."
+  },
+  {
+    "id": "bias_social_proof",
+    "name": "Social Proof",
+    "description": "Under uncertainty, we look to the actions and choices of others as information about what is correct or desirable. The more people appear to be doing something, the more we assume it is the right thing to do — regardless of whether those people had good reasons.",
+    "domain_tags": [
+      "Social",
+      "Belief",
+      "Money",
+      "Politics"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "reciwdTJWAUgtFTkl",
+      "recbbz5SctLW9xEl7",
+      "rec45WDvarL4TGUYP",
+      "rec8MIkn6jFTNBYYY",
+      "recIEGcrF81PMN4XN"
+    ],
+    "notes": "Added to model 2026-04-25. Distinct from Bandwagon Effect (spread of beliefs through adoption) and False Consensus (overestimating agreement). Social Proof is the underlying uncertainty-driven mechanism: when unsure, infer correct behavior from others' actions. Uniquely exploitable in agentic AI, which can fabricate or selectively surface social proof. Source: Cialdini, R.B. (1984). Influence: The Psychology of Persuasion. Harper Business."
+  },
+  {
+    "id": "bias_mere_exposure",
+    "name": "Mere Exposure Effect",
+    "description": "We develop preferences for things simply through repeated exposure, even without any conscious evaluation or positive experience. Familiarity alone generates a sense of liking and trust — meaning that any system that increases contact frequency also increases perceived trustworthiness, regardless of quality.",
+    "domain_tags": [
+      "Memory",
+      "Belief",
+      "Social"
+    ],
+    "risk_level": "MODERATE",
+    "tactic_ids": [
+      "recKKdHxLsvBVKkCB",
+      "recc9ckcrMwdFRbI1",
+      "recdUVKRqdXi3EhgZ",
+      "recqeY1wrFi3vaoy3",
+      "recY7r8DsmnF70h9D"
+    ],
+    "notes": "Added to model 2026-04-25. Distinct from Halo Effect (positive impressions transfer across traits) and Cryptomnesia (mistaking imagination for memory). Mere Exposure is purely familiarity-driven preference with no evaluation component. Particularly relevant to brand and identity tactics in agentic AI. Source: Zajonc, R.B. (1968). Attitudinal Effects of Mere Exposure. Journal of Personality and Social Psychology Monograph Supplement, 9(2), 1–27."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "recFP8gABs0MLrzpL",
+    "name": "Community",
+    "tactic_ids": [
+      "recrzN0cYm8vE82b2",
+      "recZljeI3sYNBnxsN",
+      "rec00gmKJgO2okkJJ",
+      "recFtLkiCmACOg3DV",
+      "recIEGcrF81PMN4XN",
+      "recFrQbBXL7ldCzdW",
+      "recbbz5SctLW9xEl7",
+      "recnOCddaGYEzvtJr"
+    ]
+  },
+  {
+    "id": "rec1kc7ND2ehAw0FQ",
+    "name": "Context",
+    "tactic_ids": [
+      "recvW9GWrF6BaRTpm",
+      "recAdvy5h72mtZXUB",
+      "rec45WDvarL4TGUYP",
+      "reciwdTJWAUgtFTkl",
+      "recQixepbVcZohgEZ",
+      "recnYHcCdQMhhmr5v",
+      "recwZjNPyoBYJ3C0S",
+      "recQwuZR2OnhiRqCX",
+      "tactic_signal_source_limits"
+    ]
+  },
+  {
+    "id": "recU2doBggOAreQR1",
+    "name": "Customization",
+    "tactic_ids": [
+      "reczJF0eQk7U3XwGb",
+      "rec42uvZXm5ALnOQw",
+      "recFnd9fPRz65ljBx",
+      "receV0Sq5u93t2ntT",
+      "recW6CwXfFdQpD9fv"
+    ]
+  },
+  {
+    "id": "recnCdmcpCJ6ZKz8m",
+    "name": "Establish Source",
+    "tactic_ids": [
+      "recaNRVpt6UWBMXfT",
+      "recLevDcKFF9FgzJ9",
+      "recqeY1wrFi3vaoy3",
+      "recN5NMjDBXiGWITQ",
+      "reccF7LbO7tjVXmcK",
+      "recMXHqONO9abVvHi",
+      "tactic_data_consent",
+      "tactic_signal_source_limits",
+      "tactic_ai_disclosure"
+    ]
+  },
+  {
+    "id": "rec9b0fpWDaSDy0ib",
+    "name": "Framing",
+    "tactic_ids": [
+      "recdaDvxjREr4adIF",
+      "rec1NBpwtbo7Nttp1",
+      "recy0DvJc7w8uHdEu",
+      "rec4Ps8aZchJvYSEB",
+      "recovreoq8oKbYgdK",
+      "recEAdiktmRSyTgbX",
+      "recDrGdm6igQ7pFJo",
+      "receMaMjE3iKUQQ2S",
+      "recycZGhOY0qhWTXk",
+      "recEzzmeqDXF0vESM",
+      "rec6ebBwBeqRn1FHe",
+      "recYyK25ihoveewJg",
+      "tactic_ethical_gamification"
+    ]
+  },
+  {
+    "id": "recBgtcMxYmX2nxXl",
+    "name": "IA",
+    "tactic_ids": [
+      "recNtGRetsgkwWYr9",
+      "recfmkCiZjJfCEAx7",
+      "recPB5YGtkNxDMXlf",
+      "recEP1l4dnTYXKLnG",
+      "recY7r8DsmnF70h9D",
+      "recWzXluUwisZlcOx",
+      "recno678Aqfu0Qe4w",
+      "rec0LiNqIkQCRO39z"
+    ]
+  },
+  {
+    "id": "recqQvTMh2PlcEloA",
+    "name": "Perception of Source",
+    "tactic_ids": [
+      "recVssvgi0cji8ZfG",
+      "recdUVKRqdXi3EhgZ",
+      "recl3wY5QfDFWuGqq",
+      "rec8MIkn6jFTNBYYY",
+      "recKKdHxLsvBVKkCB",
+      "tactic_ai_disclosure"
+    ]
+  },
+  {
+    "id": "recyW4XDsRzPzv8lj",
+    "name": "Process",
+    "tactic_ids": [
+      "rechxiD5g9SswIT3c",
+      "recBkjzuNXZat0Mum",
+      "reczwMt66lfr28kPt",
+      "recjifDSDUQFxek34",
+      "recwENfVF2tf2aUXJ",
+      "rec9IIaa5TdtOJbkm",
+      "recuZ8RB7879zpCIp",
+      "recQNQTcQ1MmvD54R",
+      "rec533oHjVb8mazj3",
+      "recPXlmzp3IUJlGar",
+      "tactic_exit_reversal",
+      "tactic_data_consent",
+      "tactic_opt_in_defaults",
+      "tactic_scope_confirm",
+      "tactic_proactive_contact",
+      "tactic_ethical_gamification"
+    ]
+  },
+  {
+    "id": "recmbqDJ8tHRM8cz8",
+    "name": "Usability",
+    "tactic_ids": [
+      "rec4NuCV6lAQRJ1jx",
+      "recrsxadx0LKIc7c7",
+      "recBprXr24xtsLo7q",
+      "recfPae6w5E6bIYfo",
+      "recXKdhP1XLI8v3tX",
+      "recl7keM116jKlY0F",
+      "recB3wSxrq94OoMRE",
+      "tactic_exit_reversal",
+      "tactic_opt_in_defaults",
+      "tactic_scope_confirm",
+      "tactic_proactive_contact"
+    ]
+  },
+  {
+    "id": "recGq1bEXMdRpzGFx",
+    "name": "Visual Design",
+    "tactic_ids": [
+      "recgMdBHpHXJbHmsY",
+      "rec6G3Rs5HxXNYC1Y",
+      "recc9ckcrMwdFRbI1",
+      "recVxo4wrwqAJG5WP",
+      "recaRNmVuoF6sszln"
+    ]
+  }
+]

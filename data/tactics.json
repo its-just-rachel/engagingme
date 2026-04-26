@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "recQwuZR2OnhiRqCX",
+    "name": "Advocate Ideas/Solutions",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "reciIg9zQ7KbBaLJn",
+      "recYgPcSw0x9aL5R1",
+      "recztDscKVPkZOu7T",
+      "recy5aWDVmI6bvy6C",
+      "recs1qew565kbyCEg",
+      "rec50OLJbCY25Om8w",
+      "recADSRlVuObq9tMY"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "recVxo4wrwqAJG5WP",
+    "name": "Alignment",
+    "group_ids": [
+      "recGq1bEXMdRpzGFx"
+    ],
+    "bias_ids": [],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [],
+    "notes": "Perceptual/Gestalt design principle. Operates at the visual-cognitive interface rather than via cognitive bias. Bias-agnostic by design \u2014 reduces cognitive load that interacts with multiple biases but does not map to a single bias mechanism. Cross-stage by nature."
+  },
+  {
+    "id": "recZljeI3sYNBnxsN",
+    "name": "Allow for anonymity",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recsniYBK8hrQnaWl",
+      "recX6eQprOQmMJx2X"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recFtLkiCmACOg3DV",
+    "name": "Allow for self-identity and expression",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recFMNCdA0YshqFHN",
+      "rec15IRFPYgQtMxdN",
+      "rec7EdtK9CrWftm2F",
+      "recADSRlVuObq9tMY"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recno678Aqfu0Qe4w",
+    "name": "Allow mistakes to be undone",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "bias_loss_aversion",
+      "recztDscKVPkZOu7T",
+      "recX6eQprOQmMJx2X"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recEAdiktmRSyTgbX",
+    "name": "Appropriately frame message as concrete or abstract",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "recSPCqXdqSWnTd38",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "rec9IIaa5TdtOJbkm",
+    "name": "Assure outcomes",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "recsW3EQAk87MbGEq",
+      "recy5aWDVmI6bvy6C",
+      "rectHxJs1bxNiMqQb",
+      "recgZE7VsrrNbQeSy",
+      "recYiTmsRi3mAcJ9Q"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recY7r8DsmnF70h9D",
+    "name": "Be consistent in providing context",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "recwtMIXlbXLlBAkC",
+      "bias_mere_exposure"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "recl3wY5QfDFWuGqq",
+    "name": "Be likeable",
+    "group_ids": [
+      "recqQvTMh2PlcEloA"
+    ],
+    "bias_ids": [
+      "recLRMuMHQmKJOT7F"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recW6CwXfFdQpD9fv",
+    "name": "Capture data from users through research, manual or automated capture, sensors, interactions.",
+    "group_ids": [
+      "recU2doBggOAreQR1"
+    ],
+    "bias_ids": [],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recjWSl4XmpwCACar"
+    ],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "rec0LiNqIkQCRO39z",
+    "name": "Communicate what\u2019s happening all along the way",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "recwtMIXlbXLlBAkC"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW"
+    ]
+  },
+  {
+    "id": "rec6G3Rs5HxXNYC1Y",
+    "name": "Contrast",
+    "group_ids": [
+      "recGq1bEXMdRpzGFx"
+    ],
+    "bias_ids": [],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW"
+    ],
+    "notes": "Perceptual/Gestalt design principle. Operates at the visual-cognitive interface rather than via cognitive bias. Bias-agnostic by design \u2014 reduces cognitive load that interacts with multiple biases but does not map to a single bias mechanism. Cross-stage by nature."
+  },
+  {
+    "id": "recVssvgi0cji8ZfG",
+    "name": "Craft perception of the source",
+    "group_ids": [
+      "recqQvTMh2PlcEloA"
+    ],
+    "bias_ids": [
+      "recLRMuMHQmKJOT7F"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recIusWpY0CUGcYui"
+    ]
+  },
+  {
+    "id": "rec00gmKJgO2okkJJ",
+    "name": "Create a safe environment",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recNDRMPoxltyyDKK",
+      "recFMNCdA0YshqFHN",
+      "recsniYBK8hrQnaWl",
+      "recXufHnxClHepoyn",
+      "reco7c8lSvR8dvmRH"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recYyK25ihoveewJg",
+    "name": "Create a sense of ownership/inclusion",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "rec15IRFPYgQtMxdN",
+      "rec7EdtK9CrWftm2F"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recKKdHxLsvBVKkCB",
+    "name": "Create familiarity",
+    "group_ids": [
+      "recqQvTMh2PlcEloA"
+    ],
+    "bias_ids": [
+      "recZQzTKU6JTRFb8R",
+      "recLRMuMHQmKJOT7F",
+      "recHV9QFEwKwky7oT",
+      "bias_mere_exposure"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recFrQbBXL7ldCzdW",
+    "name": "Create opportunities for individual competition or team cooperation",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recgsDIG3rZOwrsbD",
+      "recADSRlVuObq9tMY"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "recDrGdm6igQ7pFJo",
+    "name": "Create sense of scarcity/urgency",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "rec9LHKbuC3gYm5Ni",
+      "recJKdP5D9PXnQ1cc",
+      "recf6iNbAwAJu8BRw",
+      "recztDscKVPkZOu7T",
+      "recX6eQprOQmMJx2X",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recgMdBHpHXJbHmsY",
+    "name": "Create spatial structure and hierarchy (Visual Design)",
+    "group_ids": [
+      "recGq1bEXMdRpzGFx"
+    ],
+    "bias_ids": [],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR"
+    ],
+    "notes": "Perceptual/Gestalt design principle. Operates at the visual-cognitive interface rather than via cognitive bias. Bias-agnostic by design \u2014 reduces cognitive load that interacts with multiple biases but does not map to a single bias mechanism. Cross-stage by nature."
+  },
+  {
+    "id": "recNtGRetsgkwWYr9",
+    "name": "Create structure and heirarchy for concepts (IA)",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "recgy7n1EP6DpfUvJ",
+      "rec6yTTPGid9BDbwg",
+      "recXMb3zMGUjlH22W"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR"
+    ]
+  },
+  {
+    "id": "recMXHqONO9abVvHi",
+    "name": "Cultivate perception of honesty",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m"
+    ],
+    "bias_ids": [
+      "recEt4bkBNM5mbR9e"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "recnYHcCdQMhhmr5v",
+    "name": "Deepen experience by engaging senses (Media)",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "rec1mQOkbN30aQmv1",
+      "recM59aU8TW9h5ZnW",
+      "recZQzTKU6JTRFb8R"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "reccF7LbO7tjVXmcK",
+    "name": "Demonstrate expertise",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m"
+    ],
+    "bias_ids": [
+      "recbRvjdCA5zWgOn2",
+      "recIAFAhEXcBLQuE4"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recQNQTcQ1MmvD54R",
+    "name": "Develop personal action plan",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec7EdtK9CrWftm2F"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recrsxadx0LKIc7c7",
+    "name": "Direct attention",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [
+      "recf6iNbAwAJu8BRw",
+      "recy5aWDVmI6bvy6C",
+      "recXMb3zMGUjlH22W"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recPB5YGtkNxDMXlf",
+    "name": "Directly surface actions and information relevant to the current activity",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "recLevDcKFF9FgzJ9",
+    "name": "Establish authenticity",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m"
+    ],
+    "bias_ids": [
+      "recEt4bkBNM5mbR9e",
+      "recIAFAhEXcBLQuE4"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recN5NMjDBXiGWITQ",
+    "name": "Establish credibility",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m"
+    ],
+    "bias_ids": [
+      "rec2rqojOG1hhtMBg",
+      "recXHDXuSZFrWI48N",
+      "recEt4bkBNM5mbR9e",
+      "recIAFAhEXcBLQuE4"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recqeY1wrFi3vaoy3",
+    "name": "Establish identity",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m"
+    ],
+    "bias_ids": [
+      "recIAFAhEXcBLQuE4",
+      "bias_mere_exposure"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recaNRVpt6UWBMXfT",
+    "name": "Establish the source",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m"
+    ],
+    "bias_ids": [
+      "recIAFAhEXcBLQuE4"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR"
+    ]
+  },
+  {
+    "id": "recQixepbVcZohgEZ",
+    "name": "Evoke motivating emotions",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "recXufHnxClHepoyn",
+      "reco7c8lSvR8dvmRH",
+      "recYgPcSw0x9aL5R1",
+      "rec9LHKbuC3gYm5Ni",
+      "rec1mQOkbN30aQmv1",
+      "recQifDA2SCwpOqjt",
+      "recM59aU8TW9h5ZnW",
+      "rectHxJs1bxNiMqQb",
+      "recgZE7VsrrNbQeSy"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recdUVKRqdXi3EhgZ",
+    "name": "Exhibit surface appeal",
+    "group_ids": [
+      "recqQvTMh2PlcEloA"
+    ],
+    "bias_ids": [
+      "recLRMuMHQmKJOT7F",
+      "bias_mere_exposure"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recl7keM116jKlY0F",
+    "name": "Facilitate action",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [
+      "recztDscKVPkZOu7T"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "rec45WDvarL4TGUYP",
+    "name": "Feed users' need for information about others, particularly those they care about or respect",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "recXuxCGgf8mokQ7m",
+      "recFrjloQ1hSZlakW",
+      "reckA7mvOM2D7UwVS",
+      "rec7wrR3zmKU4jzvb",
+      "rec0q5uGjEkfd1KdJ",
+      "bias_social_proof"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "rec6ebBwBeqRn1FHe",
+    "name": "Foster perception of ability (Cognitive Fluency)",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "recbRvjdCA5zWgOn2",
+      "rectHxJs1bxNiMqQb",
+      "recYiTmsRi3mAcJ9Q"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "recovreoq8oKbYgdK",
+    "name": "Frame message as a persuasive argument",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "rec2rqojOG1hhtMBg",
+      "recXHDXuSZFrWI48N",
+      "recQDUIOZ7aidLgNV",
+      "recYgPcSw0x9aL5R1",
+      "recSPCqXdqSWnTd38"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "receMaMjE3iKUQQ2S",
+    "name": "Frame message as an offer",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "recSPCqXdqSWnTd38",
+      "recJKdP5D9PXnQ1cc",
+      "recX6eQprOQmMJx2X",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recdaDvxjREr4adIF",
+    "name": "Frame messages appropriately",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "recSPCqXdqSWnTd38",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "reczJF0eQk7U3XwGb",
+    "name": "Gather data to customize messaging and interactions appropriately",
+    "group_ids": [
+      "recU2doBggOAreQR1"
+    ],
+    "bias_ids": [
+      "recHV9QFEwKwky7oT"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR"
+    ]
+  },
+  {
+    "id": "rec533oHjVb8mazj3",
+    "name": "Give/Accept feedback on performance",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "bias_reciprocity"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recjWSl4XmpwCACar",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "rechxiD5g9SswIT3c",
+    "name": "Guide users' exploration",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "rec4NuCV6lAQRJ1jx",
+    "name": "Increase usability and utility",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [],
+    "action_type_ids": [],
+    "stage_ids": [],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "recuZ8RB7879zpCIp",
+    "name": "Make commitments",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "recUVoSFSTsEUvVNT",
+      "rec7EdtK9CrWftm2F",
+      "recADSRlVuObq9tMY",
+      "bias_reciprocity"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recB3wSxrq94OoMRE",
+    "name": "Meet users where they are",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [
+      "rec6yTTPGid9BDbwg"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [],
+    "notes": "Cross-stage tactic. Applies throughout the engagement lifecycle rather than at a specific stage. Stage-agnostic by design \u2014 relevant at Zero through Acting and does not meaningfully differentiate by stage."
+  },
+  {
+    "id": "rec42uvZXm5ALnOQw",
+    "name": "Personalize message (targeting)",
+    "group_ids": [
+      "recU2doBggOAreQR1"
+    ],
+    "bias_ids": [
+      "reckA7mvOM2D7UwVS",
+      "recnrGma4LaBHpC7L",
+      "rec7wrR3zmKU4jzvb",
+      "recHV9QFEwKwky7oT"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recy0DvJc7w8uHdEu",
+    "name": "Present content or messages at the best time for reception",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "rec1mQOkbN30aQmv1"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recPXlmzp3IUJlGar",
+    "name": "Provide a multistep interaction to increase engagement or break up learning",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "recBkjzuNXZat0Mum",
+    "name": "Provide a path",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze",
+      "recy5aWDVmI6bvy6C"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recIEGcrF81PMN4XN",
+    "name": "Provide a sense of community",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recXuxCGgf8mokQ7m",
+      "recFMNCdA0YshqFHN",
+      "recFrjloQ1hSZlakW",
+      "recgsDIG3rZOwrsbD",
+      "rec0q5uGjEkfd1KdJ",
+      "bias_reciprocity",
+      "bias_social_proof"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recIusWpY0CUGcYui",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "recvW9GWrF6BaRTpm",
+    "name": "Provide context for deeper engagement and understanding",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "recXufHnxClHepoyn"
+    ],
+    "action_type_ids": [],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recIusWpY0CUGcYui"
+    ]
+  },
+  {
+    "id": "recAdvy5h72mtZXUB",
+    "name": "Provide facts, statistics, research or other evidence",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "rec7wrR3zmKU4jzvb",
+      "rec2rqojOG1hhtMBg",
+      "recXHDXuSZFrWI48N",
+      "recQDUIOZ7aidLgNV",
+      "recbRvjdCA5zWgOn2",
+      "reck35qrepsfsJGR1",
+      "rec1mQOkbN30aQmv1",
+      "recQifDA2SCwpOqjt",
+      "recgy7n1EP6DpfUvJ",
+      "recOwiCvYpDaFI8hi",
+      "rec50OLJbCY25Om8w"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR"
+    ]
+  },
+  {
+    "id": "recnOCddaGYEzvtJr",
+    "name": "Provide opportunities for social interaction",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recNDRMPoxltyyDKK",
+      "recgsDIG3rZOwrsbD"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recbbz5SctLW9xEl7",
+    "name": "Provide opportunities for the message to spread (social diffusion)",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recXuxCGgf8mokQ7m",
+      "recs1qew565kbyCEg",
+      "bias_social_proof"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "recrzN0cYm8vE82b2",
+    "name": "Provide opportunities for users to engage privately or publicly as they choose",
+    "group_ids": [
+      "recFP8gABs0MLrzpL"
+    ],
+    "bias_ids": [
+      "recsniYBK8hrQnaWl",
+      "recX6eQprOQmMJx2X"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recEzzmeqDXF0vESM",
+    "name": "Provide reinforcement (reward or punish)",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "reciIg9zQ7KbBaLJn",
+      "recUVoSFSTsEUvVNT",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recfPae6w5E6bIYfo",
+    "name": "Provide reminders/prompts",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [
+      "recwtMIXlbXLlBAkC"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recaRNmVuoF6sszln",
+    "name": "Proximity",
+    "group_ids": [
+      "recGq1bEXMdRpzGFx"
+    ],
+    "bias_ids": [],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [],
+    "notes": "Perceptual/Gestalt design principle. Operates at the visual-cognitive interface rather than via cognitive bias. Bias-agnostic by design \u2014 reduces cognitive load that interacts with multiple biases but does not map to a single bias mechanism. Cross-stage by nature."
+  },
+  {
+    "id": "recfmkCiZjJfCEAx7",
+    "name": "Reduce distractions from the primary user goals",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "recf6iNbAwAJu8BRw",
+      "recXMb3zMGUjlH22W"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR"
+    ]
+  },
+  {
+    "id": "recXKdhP1XLI8v3tX",
+    "name": "Reduce friction/personal barriers",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [
+      "recztDscKVPkZOu7T",
+      "rec9iOtYFUtrE1nze"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recWzXluUwisZlcOx",
+    "name": "Reduce the risk of user errors",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "bias_loss_aversion",
+      "rectHxJs1bxNiMqQb"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "rec8MIkn6jFTNBYYY",
+    "name": "Reflect audience (similarity)",
+    "group_ids": [
+      "recqQvTMh2PlcEloA"
+    ],
+    "bias_ids": [
+      "recFMNCdA0YshqFHN",
+      "reckA7mvOM2D7UwVS",
+      "recnrGma4LaBHpC7L",
+      "rec15IRFPYgQtMxdN",
+      "recLRMuMHQmKJOT7F",
+      "recHV9QFEwKwky7oT",
+      "bias_social_proof"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recc9ckcrMwdFRbI1",
+    "name": "Repetition",
+    "group_ids": [
+      "recGq1bEXMdRpzGFx"
+    ],
+    "bias_ids": [
+      "bias_mere_exposure"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW"
+    ]
+  },
+  {
+    "id": "recwENfVF2tf2aUXJ",
+    "name": "Set goals",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze",
+      "recUVoSFSTsEUvVNT",
+      "rec7EdtK9CrWftm2F"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "reciwdTJWAUgtFTkl",
+    "name": "Show users what others do/think to inspire reaction",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "recXuxCGgf8mokQ7m",
+      "recNDRMPoxltyyDKK",
+      "recFrjloQ1hSZlakW",
+      "reck35qrepsfsJGR1",
+      "rec0q5uGjEkfd1KdJ",
+      "rec1mQOkbN30aQmv1",
+      "recQifDA2SCwpOqjt",
+      "recs1qew565kbyCEg",
+      "rec50OLJbCY25Om8w",
+      "bias_social_proof"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "rec1NBpwtbo7Nttp1",
+    "name": "Show what can be lost or gained",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "rec9LHKbuC3gYm5Ni",
+      "recJKdP5D9PXnQ1cc",
+      "recSPCqXdqSWnTd38",
+      "recztDscKVPkZOu7T",
+      "recsW3EQAk87MbGEq",
+      "recgZE7VsrrNbQeSy",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "rec4Ps8aZchJvYSEB",
+    "name": "Simplify/Complicate appropriately",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "rec6yTTPGid9BDbwg"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ]
+  },
+  {
+    "id": "recwZjNPyoBYJ3C0S",
+    "name": "Support decision making",
+    "group_ids": [
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "reco7c8lSvR8dvmRH",
+      "recOwiCvYpDaFI8hi",
+      "recztDscKVPkZOu7T",
+      "recsW3EQAk87MbGEq"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ]
+  },
+  {
+    "id": "recjifDSDUQFxek34",
+    "name": "Support progress",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze",
+      "recUVoSFSTsEUvVNT",
+      "recYiTmsRi3mAcJ9Q"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "receV0Sq5u93t2ntT",
+    "name": "Tailor content or messaging",
+    "group_ids": [
+      "recU2doBggOAreQR1"
+    ],
+    "bias_ids": [
+      "recnrGma4LaBHpC7L",
+      "rec7wrR3zmKU4jzvb"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recFnd9fPRz65ljBx",
+    "name": "Target audience segments",
+    "group_ids": [
+      "recU2doBggOAreQR1"
+    ],
+    "bias_ids": [
+      "reckA7mvOM2D7UwVS",
+      "recnrGma4LaBHpC7L",
+      "rec7wrR3zmKU4jzvb"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "reczwMt66lfr28kPt",
+    "name": "Trigger responses",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "rec9KWlerH9eyRd4N"
+    ]
+  },
+  {
+    "id": "recBprXr24xtsLo7q",
+    "name": "Use appropriate language (Voice)",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [
+      "rec6yTTPGid9BDbwg"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "recEP1l4dnTYXKLnG",
+    "name": "Use conversational labels and messaging",
+    "group_ids": [
+      "recBgtcMxYmX2nxXl"
+    ],
+    "bias_ids": [
+      "rec6yTTPGid9BDbwg"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL"
+    ]
+  },
+  {
+    "id": "tactic_proactive_contact",
+    "name": "Calibrate proactive outreach to demonstrated user preferences and initiate contact only in the user's interest",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8",
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze",
+      "bias_loss_aversion",
+      "recX6eQprOQmMJx2X"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec9KWlerH9eyRd4N"
+    ],
+    "notes": "Added to model 2026-04-25. The ethical question behind every proactive notification or outreach is: who does this serve? A message sent because the user would genuinely benefit from it is different from a message sent because the designer needs the user to return. Both can look identical on the surface \u2014 only intent and outcome differ. Three principles: (1) PREFERENCE-CALIBRATED \u2014 contact frequency and timing should be learned from demonstrated user behavior and preference, not set to maximize designer metrics. Users should be able to set explicit preferences; the system should also observe implicit signals (dismissals, delays, non-responses). (2) USER-INTEREST TEST \u2014 before initiating contact, the agent or system should be able to articulate how this serves the user, not just the platform. Retention metrics, streak maintenance, and re-engagement targets are designer interests, not user interests. (3) RESPECTS SILENCE \u2014 a user who does not respond to outreach is communicating a preference. Escalating volume or guilt-framed messaging in response to non-response is a design failure, not a strategy. AGENTIC NOTE: Proactive Manipulation (dp_021) is the agentic form of this failure \u2014 an autonomous agent that initiates contact at strategically chosen moments to advance the designer's interests without user invitation. Unlike a notification (which a user can dismiss), an agentic outreach may trigger cascading actions. The stakes of this tactic are higher in agentic contexts. Counteracts Nagging (dp_011) and Proactive Manipulation (dp_021)."
+  },
+  {
+    "id": "tactic_ethical_gamification",
+    "name": "Apply gamification mechanics to support genuine user motivation through positive reinforcement, with user control and no punitive loss for pausing",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj",
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze",
+      "recUVoSFSTsEUvVNT",
+      "bias_loss_aversion",
+      "rec7EdtK9CrWftm2F"
+    ],
+    "action_type_ids": [
+      "recozGpYF0iyf6eav",
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
+    "notes": "Added to model 2026-04-25. Gamification mechanics \u2014 streaks, points, levels, badges, challenges, leaderboards \u2014 can support genuine motivation when designed ethically. The critical distinction is the direction of the mechanic: ETHICAL GAMIFICATION IS ADDITIVE. It rewards progress with tokens, gems, recognition, or access that the user has earned. The user accumulates value. EXPLOITATIVE GAMIFICATION IS SUBTRACTIVE. It creates a state the user must maintain under threat of losing it. The user is defending an arbitrary counter. The ethical test for any gamification mechanic: does the user earn something, or do they avoid losing something? Earning \u2192 legitimate positive reinforcement. Avoiding loss \u2192 Loss Aversion exploitation. STREAKS: Streaks as recognition of consistent effort can be motivating when: the user controls what counts as a streak-breaking day (vacation mode, pause, skip-without-penalty); the streak belongs to the user and cannot be monetized as an escape mechanism; and the notification language around streaks is encouraging rather than guilt-inducing. CRITICAL FAILURE PATTERN (the Duolingo case): A streak mechanic becomes a dark pattern when: (1) breaking a streak destroys accumulated progress the user earned; (2) pausing requires payment \u2014 the 'streak shield' model, where the designer monetizes escape from their own coercive mechanic, is itself a dark pattern; (3) notifications use guilt, shame, or emotional blackmail to enforce streak maintenance. Monetizing the relief from a coercive mechanic is a compound manipulation: first trap the user, then charge them to feel free. EARNING/SPENDING MODEL: Collecting gems, tokens, or points through progress and spending them on features, customizations, or access is ethically sound \u2014 it is pure positive reinforcement with no loss aversion component. AGENTIC NOTE: Gamification in agentic AI can manifest as dependency loops \u2014 an agent that makes itself feel indispensable through accumulated history, personalization, or streaks of interaction, making disengagement feel costly. Ethical agentic design ensures the value of prior interaction is portable and that disengagement is friction-free. Counteracts Sunk Cost Exploitation (dp_015). See also tactic_exit_reversal and tactic_proactive_contact."
+  },
+  {
+    "id": "tactic_signal_source_limits",
+    "name": "Signal the limits of source knowledge, persistently and proportionally to stakes",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m",
+      "rec1kc7ND2ehAw0FQ"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "recbRvjdCA5zWgOn2",
+      "recEt4bkBNM5mbR9e"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH",
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ],
+    "notes": "Added to model 2026-04-25. Universal principle: any trustworthy knowledge source \u2014 a knowledge base, a human expert, a data dashboard, a generative AI system \u2014 signals the boundaries of what it knows. A knowledge base has scope notes and 'last updated' timestamps. A subject matter expert says 'that's outside my area.' A data dashboard flags stale records. Operates at three levels, applied proportionally: (1) PERSISTENT / SYSTEM-LEVEL \u2014 the source's fundamental limitations are surfaced once, durably, at the interface or relationship level, not repeated in every interaction. (2) PROPORTIONAL / RESPONSE-LEVEL \u2014 within a response, confidence signals are calibrated to stakes. Routine, low-risk information carries a lighter touch; guidance that is hard to reverse, high-stakes, or touches medical/legal/financial territory warrants explicit uncertainty disclosure. (3) STRUCTURAL / CATEGORICAL \u2014 some limitations are not about specific facts but about the nature of the source itself: a knowledge base may not cover a domain; an AI system lacks phenomenal experience and has a training cutoff; a human expert has blind spots. These categorical limitations should be disclosed proactively, not only when asked. AI-SPECIFIC EXTENSION: Automation Bias makes this tactic especially critical for AI systems \u2014 users systematically overtrust AI and suppress their natural skepticism when a source sounds fluent and confident. Persistent, ambient epistemic signaling (such as interface-level notices) combined with proportional in-response hedging counteracts this. Counteracts False Confidence / Calibration Deception (dp_019) and Epistemic Cowardice (dp_020). See also tactic_scope_confirm for the agentic pre-action application of this principle."
+  },
+  {
+    "id": "tactic_scope_confirm",
+    "name": "Confirm task scope and surface assumptions before acting on a user's behalf",
+    "group_ids": [
+      "recyW4XDsRzPzv8lj",
+      "recmbqDJ8tHRM8cz8"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "recztDscKVPkZOu7T",
+      "rec7wrR3zmKU4jzvb"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ],
+    "notes": "Added to model 2026-04-25. Agentic AI-specific. Before undertaking a complex, multi-step, or potentially irreversible task on a user's behalf, the agent states: (1) its understanding of the task scope, (2) any assumptions it is making where the instruction was ambiguous or silent, and (3) any ambiguities it cannot resolve without input, and asks about them before proceeding. This front-loads disclosure and confirmation into the moment before action \u2014 rather than interrupting mid-task or disclosing only after the fact. The key design principle: the cost of a brief scope confirmation is almost always lower than the cost of completing the wrong task or taking an unauthorized action. TIMING MATTERS: disclosure before and after action is far less encumbering than during it. For irreversible or high-consequence actions, the agent may also surface a brief post-action summary of what was done and what assumptions were applied, so the user can review or correct. Distinct from tactic_signal_source_limits (which is about epistemic accuracy of information) \u2014 this tactic is about action authorization and scope, not informational uncertainty. Counteracts Stealth Defaults / Unauthorized Action (dp_008), Autonomy Erosion (dp_022), and Sneaking in Agentic Context (dp_024). Companion to tactic_opt_in_defaults and tactic_exit_reversal."
+  },
+  {
+    "id": "tactic_opt_in_defaults",
+    "name": "Apply opt-in defaults, make them visible, and ask rather than assume when intent is unclear",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8",
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "recztDscKVPkZOu7T",
+      "recy5aWDVmI6bvy6C",
+      "recSPCqXdqSWnTd38",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df",
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ],
+    "notes": "Added to model 2026-04-25. Three-part principle: (1) OPT-IN by default \u2014 the user must actively choose enrollment, data sharing, or action authorization; opt-out is not an acceptable design pattern. Pre-selected checkboxes, silent subscriptions, and passive consent mechanisms are excluded by this principle. (2) MAKE DEFAULTS VISIBLE \u2014 whatever the system will do by default must be surfaced clearly, not buried in terms or hidden in settings. Users should be able to see and change defaults without friction. (3) ASK WHEN IN DOUBT \u2014 when instructions are ambiguous or silent on an edge case, ask the user rather than assuming. This is especially critical for agentic AI: an agent that acts on a reasonable interpretation of an ambiguous instruction is still taking an action the user may not have authorized. The cost of asking is nearly always lower than the cost of acting wrongly. Counteracts Trick Questions / Disguised Defaults (dp_006) and Stealth Defaults / Unauthorized Action (dp_008). Status Quo Bias and Loss Aversion explain why opt-out works as a dark pattern \u2014 people accept the default because changing it feels like losing something. Opt-in inverts this: nothing happens unless the user actively chooses it."
+  },
+  {
+    "id": "tactic_data_consent",
+    "name": "Obtain explicit, granular, and purposive consent for data collection and use",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m",
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "recSPCqXdqSWnTd38",
+      "recy5aWDVmI6bvy6C",
+      "recztDscKVPkZOu7T"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls",
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recjWSl4XmpwCACar"
+    ],
+    "notes": "Added to model 2026-04-25. Consent is both a source-transparency commitment (the user understands who is collecting what and why) and a process step (it must be designed into workflows, not treated as a one-time enrollment checkbox). Granular means per-purpose, not blanket. Purposive means the intended use is disclosed, not just the fact of collection. Belongs at Aware and Informed because the relationship terms are established early; also at Acting because new data capture events occur in context throughout the engagement. Counteracts Privacy Zuckering (dp_009), Exploitative Personalization (dp_016), and Sneaking in Agentic Context (dp_024). Particularly critical for agentic AI, which accumulates intimate user data across extended interactions."
+  },
+  {
+    "id": "tactic_exit_reversal",
+    "name": "Provide accessible pathways for exit, reversal, and task interruption",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8",
+      "recyW4XDsRzPzv8lj"
+    ],
+    "bias_ids": [
+      "recztDscKVPkZOu7T",
+      "recUVoSFSTsEUvVNT",
+      "recX6eQprOQmMJx2X",
+      "bias_loss_aversion"
+    ],
+    "action_type_ids": [
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
+    "notes": "Added to model 2026-04-25. Giving users a visible, frictionless way to exit, reverse, or reset is not the opposite of engagement \u2014 it is what makes engagement meaningful. A user who stays because leaving is hard is not engaged; they are trapped. Includes: stage reversion (declining to proceed and resetting), relationship termination (cancellation, opt-out), and \u2014 for agentic AI \u2014 task interruption (stopping or redirecting an in-progress autonomous action). Counteracts Roach Motel dark pattern (dp_010) and Autonomy Erosion (dp_022). Connects to transparency and user autonomy principles; builds long-term trust."
+  },
+  {
+    "id": "tactic_ai_disclosure",
+    "name": "Disclose AI nature and commercial interests at the point of first contact and wherever recommendations may be influenced by financial relationships",
+    "group_ids": [
+      "recnCdmcpCJ6ZKz8m",
+      "recqQvTMh2PlcEloA"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "recbRvjdCA5zWgOn2",
+      "bias_mere_exposure"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH",
+      "recfympcRFNmhygls"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ],
+    "notes": "Added to model 2026-04-25. Two distinct but related disclosure obligations, both front-loaded: (1) AI NATURE DISCLOSURE \u2014 when a user is interacting with an AI system (including an AI agent acting on their behalf), this must be disclosed clearly at or near first contact, not buried in settings, onboarding footnotes, or terms of service. The standard: a reasonable person who did not already know they were interacting with AI should come away from first contact knowing it. This applies even when the AI is designed with a persona or name \u2014 the persona does not relieve the obligation. Disclosure does not need to be disruptive or repetitive: once established and acknowledged, ambient reminders (interface-level labels, persona naming conventions) are sufficient. Importantly, this is not about undermining the relationship \u2014 transparency about AI nature builds durable trust, while concealment undermines it at the worst possible moment (discovery). (2) COMMERCIAL INTEREST DISCLOSURE \u2014 where ranked outputs, recommendations, defaults, or featured content may be influenced by affiliate relationships, sponsored placements, licensing agreements, or platform ecosystem incentives, this must be disclosed at the point of relevance \u2014 not once in a policy document, but at the moment the user is making a decision based on the recommendation. Users should be able to distinguish between 'this system thinks this is best for you' and 'this system has a financial relationship with this option.' BIAS MECHANISMS: Automation Bias (Parasuraman & Riley, 1997) \u2014 users systematically overtrust AI and suppress skeptical evaluation when a source sounds fluent and confident; disclosure of AI nature is not sufficient on its own but is the prerequisite for the user exercising appropriate critical judgment. Authority Bias \u2014 branded systems, confident tone, and professional presentation all elevate perceived authority, making commercial interest disclosures especially important when those signals are present. Mere Exposure \u2014 repeated interactions with an AI system build familiarity and implicit trust; by the time commercial interests emerge as relevant, the user's guard is typically low. PAIRED WITH tactic_signal_source_limits: that tactic addresses epistemics (what the source knows and doesn't know); this tactic addresses identity and incentives (who the source is and what it has at stake). Together they constitute the full source-transparency commitment. Counteracts Anthropomorphization Capture (dp_018) and Brand/Ecosystem Capture (dp_023)."
+  },
+  {
+    "id": "recycZGhOY0qhWTXk",
+    "name": "Use sequential gifts/requests to motivate",
+    "group_ids": [
+      "rec9b0fpWDaSDy0ib"
+    ],
+    "bias_ids": [
+      "recJKdP5D9PXnQ1cc",
+      "recUVoSFSTsEUvVNT",
+      "bias_reciprocity"
+    ],
+    "action_type_ids": [
+      "reczFrbZQzTj7n5VH"
+    ],
+    "stage_ids": [
+      "rec9KWlerH9eyRd4N"
+    ]
+  }
+]

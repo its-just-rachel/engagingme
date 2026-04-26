@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Database files
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Liminal Forge documents (separate project)
+LiminalForge_*.docx
+
+# Other working files not for public repo
+Agent Profiles*
+Autonomy*
+Extended Service Blueprint*
+EIN Application*
+Consolidated To-Do*
+AI-Generated Design Audit*
+paperclip-*
+mymove.com*
+User-Centered Design for Agentic AI*
+index.html
+
+# Output scripts
+outputs/
+
+# Skill files
+*.skill

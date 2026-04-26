@@ -1,0 +1,37 @@
+[
+  {
+    "id": "recVdA6XFMwYMB8bz",
+    "name": "Capture/Focus",
+    "stage_id": "recsSDxnoGac8MFYW"
+  },
+  {
+    "id": "recbMnjQfzu934EEN",
+    "name": "Connect",
+    "stage_id": "rec8kUhQJz4GvvZQL"
+  },
+  {
+    "id": "recNRycJp6SHW9NAt",
+    "name": "Educate",
+    "stage_id": "recG8Mw5pF2JVYerR"
+  },
+  {
+    "id": "recyRPeMpJRDZh9ca",
+    "name": "Prompt",
+    "stage_id": "recwg6gGVD7OqGfqH"
+  },
+  {
+    "id": "reckeJhTKAP71IGsE",
+    "name": "Reinforce",
+    "stage_id": "rec9KWlerH9eyRd4N"
+  },
+  {
+    "id": "recN1xuzKIqgyBfFO",
+    "name": "Reward",
+    "stage_id": "recjWSl4XmpwCACar"
+  },
+  {
+    "id": "recBY94edeAn6eMWy",
+    "name": "Support",
+    "stage_id": "recIusWpY0CUGcYui"
+  }
+]
