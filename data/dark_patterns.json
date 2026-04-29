@@ -8,9 +8,18 @@
     "source_category": "Urgency",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["recDrGdm6igQ7pFJo", "rec1NBpwtbo7Nttp1"],
-    "bias_ids": ["recztDscKVPkZOu7T", "recJKdP5D9PXnQ1cc"],
-    "stage_ids": ["recwg6gGVD7OqGfqH", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "recDrGdm6igQ7pFJo",
+      "rec1NBpwtbo7Nttp1"
+    ],
+    "bias_ids": [
+      "recztDscKVPkZOu7T",
+      "recJKdP5D9PXnQ1cc"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "The existing tactic 'Create sense of scarcity/urgency' is legitimate but has no internal guardrail distinguishing authentic from manufactured urgency. Agentic extension: an agent can initiate contact at a strategically stressful time to manufacture urgency without the user requesting interaction."
   },
@@ -23,9 +32,18 @@
     "source_category": "Scarcity",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["recDrGdm6igQ7pFJo", "receMaMjE3iKUQQ2S"],
-    "bias_ids": ["recSPCqXdqSWnTd38", "recztDscKVPkZOu7T"],
-    "stage_ids": ["recIusWpY0CUGcYui", "recwg6gGVD7OqGfqH"],
+    "tactic_ids": [
+      "recDrGdm6igQ7pFJo",
+      "receMaMjE3iKUQQ2S"
+    ],
+    "bias_ids": [
+      "recSPCqXdqSWnTd38",
+      "recztDscKVPkZOu7T"
+    ],
+    "stage_ids": [
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "Distinct from False Urgency in that it focuses on availability rather than time. The model has no 'demonstrate genuine availability' or 'verify scarcity claims' tactic. Scarcity claims in conversational AI often appear as inflated capability limitations or access restrictions."
   },
@@ -38,9 +56,20 @@
     "source_category": "Social Proof",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["reciwdTJWAUgtFTkl", "recIEGcrF81PMN4XN"],
-    "bias_ids": ["recXuxCGgf8mokQ7m", "recFrjloQ1hSZlakW", "recNDRMPoxltyyDKK"],
-    "stage_ids": ["recG8Mw5pF2JVYerR", "rec8kUhQJz4GvvZQL", "recwg6gGVD7OqGfqH"],
+    "tactic_ids": [
+      "reciwdTJWAUgtFTkl",
+      "recIEGcrF81PMN4XN"
+    ],
+    "bias_ids": [
+      "recXuxCGgf8mokQ7m",
+      "recFrjloQ1hSZlakW",
+      "recNDRMPoxltyyDKK"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "Particularly potent for agentic AI, which can generate synthetic testimonials or claim user consensus without verification. The model has no 'verify authenticity of social proof' guardrail tactic."
   },
@@ -53,9 +82,18 @@
     "source_category": "Misdirection",
     "agentic_specific": false,
     "severity": "MODERATE",
-    "tactic_ids": ["recdaDvxjREr4adIF", "recYyK25ihoveewJg"],
-    "bias_ids": ["rec15IRFPYgQtMxdN", "recSPCqXdqSWnTd38"],
-    "stage_ids": ["recwg6gGVD7OqGfqH", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "recdaDvxjREr4adIF",
+      "recYyK25ihoveewJg"
+    ],
+    "bias_ids": [
+      "rec15IRFPYgQtMxdN",
+      "recSPCqXdqSWnTd38"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "The positive tactic 'Frame messages appropriately' exists but carries no ethical specification about neutrally labeling alternatives. In conversational AI, this can appear as framing disagreement with the agent as shortsighted or unwise."
   },
@@ -68,9 +106,18 @@
     "source_category": "Interface Interference (Gray); Misdirection (Mathur)",
     "agentic_specific": false,
     "severity": "MODERATE",
-    "tactic_ids": ["recrsxadx0LKIc7c7", "recgMdBHpHXJbHmsY"],
-    "bias_ids": ["recy5aWDVmI6bvy6C", "recXMb3zMGUjlH22W"],
-    "stage_ids": ["recwg6gGVD7OqGfqH", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "recrsxadx0LKIc7c7",
+      "recgMdBHpHXJbHmsY"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "recXMb3zMGUjlH22W"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "In agentic/conversational AI, this manifests as structured response formatting that highlights the agent's preferred conclusion while burying caveats or alternatives (e.g., leading with the recommendation, trailing with the qualifications). No 'present alternatives with equal visual weight' tactic in model."
   },
@@ -83,9 +130,18 @@
     "source_category": "Misdirection (Mathur); Trick Questions (Brignull)",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["recwZjNPyoBYJ3C0S", "recdaDvxjREr4adIF"],
-    "bias_ids": ["recztDscKVPkZOu7T", "recSPCqXdqSWnTd38"],
-    "stage_ids": ["rec8kUhQJz4GvvZQL", "recwg6gGVD7OqGfqH"],
+    "tactic_ids": [
+      "recwZjNPyoBYJ3C0S",
+      "recdaDvxjREr4adIF"
+    ],
+    "bias_ids": [
+      "recztDscKVPkZOu7T",
+      "recSPCqXdqSWnTd38"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "SIGNIFICANT GAP: The model has no 'default to user-beneficial options' tactic. In agentic AI, this can appear as ambiguous confirmation prompts for irreversible actions, or framing questions in ways that make 'yes' the path of least resistance regardless of user intent."
   },
@@ -98,9 +154,18 @@
     "source_category": "Sneaking (Mathur); Hidden Costs (Brignull)",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["rec0LiNqIkQCRO39z", "recY7r8DsmnF70h9D"],
-    "bias_ids": ["recwtMIXlbXLlBAkC"],
-    "stage_ids": ["recwg6gGVD7OqGfqH", "recjWSl4XmpwCACar", "rec9KWlerH9eyRd4N"],
+    "tactic_ids": [
+      "rec0LiNqIkQCRO39z",
+      "recY7r8DsmnF70h9D"
+    ],
+    "bias_ids": [
+      "recwtMIXlbXLlBAkC"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "recjWSl4XmpwCACar",
+      "rec9KWlerH9eyRd4N"
+    ],
     "relationship_type": "inverts",
     "gap_notes": "Inverts rather than corrupts the transparency-oriented IA tactics. The model has 'Communicate what's happening all along the way' but no affirmative 'proactively disclose risks and limitations' tactic. Especially critical for agentic AI acting on behalf of users where undisclosed actions carry real-world consequences."
   },
@@ -113,9 +178,17 @@
     "source_category": "Sneaking (Gray, Mathur); Sneak into Basket (Brignull)",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["rechxiD5g9SswIT3c", "recBkjzuNXZat0Mum"],
-    "bias_ids": ["recztDscKVPkZOu7T", "recy5aWDVmI6bvy6C"],
-    "stage_ids": ["recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "rechxiD5g9SswIT3c",
+      "recBkjzuNXZat0Mum"
+    ],
+    "bias_ids": [
+      "recztDscKVPkZOu7T",
+      "recy5aWDVmI6bvy6C"
+    ],
+    "stage_ids": [
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "CRITICAL FOR AGENTIC AI: An autonomous agent taking actions not explicitly authorized by the user in the current context is a direct instantiation of this pattern. Unique risk because the agent acts in the world, not just in an interface. No 'confirm before acting on behalf of user' tactic exists in model."
   },
@@ -128,9 +201,19 @@
     "source_category": "Privacy Zuckering",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["reczJF0eQk7U3XwGb", "recW6CwXfFdQpD9fv", "recZljeI3sYNBnxsN"],
-    "bias_ids": ["recSPCqXdqSWnTd38", "recy5aWDVmI6bvy6C"],
-    "stage_ids": ["rec8kUhQJz4GvvZQL", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "reczJF0eQk7U3XwGb",
+      "recW6CwXfFdQpD9fv",
+      "recZljeI3sYNBnxsN"
+    ],
+    "bias_ids": [
+      "recSPCqXdqSWnTd38",
+      "recy5aWDVmI6bvy6C"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "SIGNIFICANT GAP: 'Allow for anonymity' is in the model, but there is no 'obtain meaningful and granular data consent' tactic. Agentic AI accumulates intimate user data across extended interactions, making this particularly high-risk. The model's data capture tactics lack any ethical consent guardrail."
   },
@@ -143,11 +226,19 @@
     "source_category": "Roach Motel (Brignull); Obstruction (Gray, Mathur)",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["recXKdhP1XLI8v3tX"],
-    "bias_ids": ["recUVoSFSTsEUvVNT", "recztDscKVPkZOu7T"],
-    "stage_ids": ["rec9KWlerH9eyRd4N", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "recXKdhP1XLI8v3tX"
+    ],
+    "bias_ids": [
+      "recUVoSFSTsEUvVNT",
+      "recztDscKVPkZOu7T"
+    ],
+    "stage_ids": [
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "inverts",
-    "gap_notes": "STRUCTURAL GAP: The positive model has 'Reduce friction/personal barriers' but NO 'Provide clear exit and cancellation pathways' tactic. Exit design is entirely absent from the positive tactic library. This is arguably the model's most significant structural blind spot — ethical engagement requires as much attention to graceful exit as to entry."
+    "gap_notes": "STRUCTURAL GAP: The positive model has 'Reduce friction/personal barriers' but NO 'Provide clear exit and cancellation pathways' tactic. Exit design is entirely absent from the positive tactic library. This is arguably the model's most significant structural blind spot \u2014 ethical engagement requires as much attention to graceful exit as to entry."
   },
   {
     "id": "dp_011",
@@ -158,9 +249,18 @@
     "source_category": "Nagging",
     "agentic_specific": false,
     "severity": "MODERATE",
-    "tactic_ids": ["recfPae6w5E6bIYfo", "reczwMt66lfr28kPt"],
-    "bias_ids": ["rec9iOtYFUtrE1nze"],
-    "stage_ids": ["recG8Mw5pF2JVYerR", "rec8kUhQJz4GvvZQL", "rec9KWlerH9eyRd4N"],
+    "tactic_ids": [
+      "recfPae6w5E6bIYfo",
+      "reczwMt66lfr28kPt"
+    ],
+    "bias_ids": [
+      "rec9iOtYFUtrE1nze"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "rec9KWlerH9eyRd4N"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "The model's 'Provide reminders/prompts' tactic has no frequency, relevance, or consent guardrails built in. Particularly significant for agentic AI that can initiate contact proactively. No 'calibrate contact frequency to user tolerance' tactic exists."
   },
@@ -173,9 +273,17 @@
     "source_category": "Forced Continuity (Brignull); Sneaking / Hidden Subscription (Mathur)",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["recycZGhOY0qhWTXk", "recuZ8RB7879zpCIp"],
-    "bias_ids": ["recUVoSFSTsEUvVNT"],
-    "stage_ids": ["rec9KWlerH9eyRd4N", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "recycZGhOY0qhWTXk",
+      "recuZ8RB7879zpCIp"
+    ],
+    "bias_ids": [
+      "recUVoSFSTsEUvVNT"
+    ],
+    "stage_ids": [
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "Overlaps with Hidden Information but specifically exploits the commitment already made. Agentic extension: an agent that quietly accrues delegated permissions, costs, or capabilities over time without the user explicitly re-authorizing the expanded scope."
   },
@@ -188,9 +296,18 @@
     "source_category": "Friend Spam",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["recbbz5SctLW9xEl7", "recnOCddaGYEzvtJr"],
-    "bias_ids": ["recXuxCGgf8mokQ7m", "recADSRlVuObq9tMY"],
-    "stage_ids": ["recjWSl4XmpwCACar", "rec9KWlerH9eyRd4N"],
+    "tactic_ids": [
+      "recbbz5SctLW9xEl7",
+      "recnOCddaGYEzvtJr"
+    ],
+    "bias_ids": [
+      "recXuxCGgf8mokQ7m",
+      "recADSRlVuObq9tMY"
+    ],
+    "stage_ids": [
+      "recjWSl4XmpwCACar",
+      "rec9KWlerH9eyRd4N"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "In agentic AI, this extends to any action that uses the user's contacts, calendar, or relationships on behalf of the agent's or designer's interests without clear per-action consent. The model's diffusion tactics ('Provide opportunities for the message to spread') carry no consent guardrail."
   },
@@ -203,39 +320,76 @@
     "source_category": "Bait and Switch",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["receMaMjE3iKUQQ2S", "rec9IIaa5TdtOJbkm"],
-    "bias_ids": ["recJKdP5D9PXnQ1cc", "rectHxJs1bxNiMqQb"],
-    "stage_ids": ["recIusWpY0CUGcYui", "recwg6gGVD7OqGfqH"],
+    "tactic_ids": [
+      "receMaMjE3iKUQQ2S",
+      "rec9IIaa5TdtOJbkm"
+    ],
+    "bias_ids": [
+      "recJKdP5D9PXnQ1cc",
+      "rectHxJs1bxNiMqQb"
+    ],
+    "stage_ids": [
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH"
+    ],
     "relationship_type": "corrupts",
-    "gap_notes": "In agentic AI, this manifests as capability overpromising — an agent that commits to tasks it cannot reliably deliver, or changes the terms of its assistance mid-task. 'Assure outcomes' is the positive tactic most at risk of corruption here."
+    "gap_notes": "In agentic AI, this manifests as capability overpromising \u2014 an agent that commits to tasks it cannot reliably deliver, or changes the terms of its assistance mid-task. 'Assure outcomes' is the positive tactic most at risk of corruption here."
   },
   {
     "id": "dp_015",
     "name": "Sunk Cost Exploitation",
     "description": "Deliberately designing progress mechanics, streaks, or incomplete loops to exploit prior investment and prevent exit even when exit is in the user's best interest.",
     "source_name": "Cross-taxonomy (Mathur et al. 2019; behavioral design literature)",
-    "source_citation": "Mathur, A. et al. (2019). https://doi.org/10.1145/3359183; Arkes, H.R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124–140.",
+    "source_citation": "Mathur, A. et al. (2019). https://doi.org/10.1145/3359183; Arkes, H.R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124\u2013140.",
     "source_category": "Obstruction (Mathur); Sunk cost mechanism (Arkes & Blumer); gamification exploitation framing: Engaging Me synthesis",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["recjifDSDUQFxek34", "recycZGhOY0qhWTXk", "recEzzmeqDXF0vESM"],
-    "bias_ids": ["recUVoSFSTsEUvVNT", "rec7EdtK9CrWftm2F", "rec9iOtYFUtrE1nze"],
-    "stage_ids": ["rec8kUhQJz4GvvZQL", "recwg6gGVD7OqGfqH", "rec9KWlerH9eyRd4N"],
+    "tactic_ids": [
+      "recjifDSDUQFxek34",
+      "recycZGhOY0qhWTXk",
+      "recEzzmeqDXF0vESM"
+    ],
+    "bias_ids": [
+      "recUVoSFSTsEUvVNT",
+      "rec7EdtK9CrWftm2F",
+      "rec9iOtYFUtrE1nze"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N"
+    ],
     "relationship_type": "amplifies",
-    "gap_notes": "NOTE: The legitimate model tactics here (Support progress, Provide reinforcement) are CLOSEST to their dark counterparts of any in the model — the line between ethical progress design and sunk cost exploitation is thin and context-dependent. The model would benefit from explicit ethical criteria distinguishing genuine support from manufactured dependency."
+    "gap_notes": "NOTE: The legitimate model tactics here (Support progress, Provide reinforcement) are CLOSEST to their dark counterparts of any in the model \u2014 the line between ethical progress design and sunk cost exploitation is thin and context-dependent. The model would benefit from explicit ethical criteria distinguishing genuine support from manufactured dependency."
   },
   {
     "id": "dp_016",
     "name": "Exploitative Personalization",
     "description": "Using accumulated personal data to identify and target an individual's specific cognitive vulnerabilities, insecurities, or emotional triggers for commercial advantage.",
-    "source_name": "Bösch et al. (2016); agentic AI extension: Engaging Me original",
-    "source_citation": "Bösch, C., Erb, B., Kargl, F., Kopp, H., & Pfattheicher, S. (2016). Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns. Proceedings of the 2016 ACM on Workshop on Privacy in the Electronic Society (WPES). https://doi.org/10.1145/2994620.2994622",
-    "source_category": "Privacy dark strategies (Bösch et al.); cognitive vulnerability targeting in agentic AI: Engaging Me synthesis",
+    "source_name": "B\u00f6sch et al. (2016); agentic AI extension: Engaging Me original",
+    "source_citation": "B\u00f6sch, C., Erb, B., Kargl, F., Kopp, H., & Pfattheicher, S. (2016). Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns. Proceedings of the 2016 ACM on Workshop on Privacy in the Electronic Society (WPES). https://doi.org/10.1145/2994620.2994622",
+    "source_category": "Privacy dark strategies (B\u00f6sch et al.); cognitive vulnerability targeting in agentic AI: Engaging Me synthesis",
     "agentic_specific": false,
     "severity": "HIGH",
-    "tactic_ids": ["rec42uvZXm5ALnOQw", "receV0Sq5u93t2ntT", "reczJF0eQk7U3XwGb"],
-    "bias_ids": ["recHV9QFEwKwky7oT", "rec7wrR3zmKU4jzvb", "recnrGma4LaBHpC7L"],
-    "stage_ids": ["recsSDxnoGac8MFYW", "recG8Mw5pF2JVYerR", "rec8kUhQJz4GvvZQL", "recIusWpY0CUGcYui", "recwg6gGVD7OqGfqH", "rec9KWlerH9eyRd4N", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "rec42uvZXm5ALnOQw",
+      "receV0Sq5u93t2ntT",
+      "reczJF0eQk7U3XwGb"
+    ],
+    "bias_ids": [
+      "recHV9QFEwKwky7oT",
+      "rec7wrR3zmKU4jzvb",
+      "recnrGma4LaBHpC7L"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "Agentic AI is uniquely dangerous here: extended conversational history creates an intimate psychological profile unavailable to traditional UI. The model's personalization tactics (targeting, tailoring, customization) have no consent or purpose-limitation guardrails. Operates across all stages because the accumulated profile is available at all times."
   },
@@ -248,9 +402,21 @@
     "source_category": "Sycophancy (DarkBench)",
     "agentic_specific": true,
     "severity": "HIGH",
-    "tactic_ids": ["recl3wY5QfDFWuGqq", "rec9IIaa5TdtOJbkm", "recMXHqONO9abVvHi"],
-    "bias_ids": ["rec7wrR3zmKU4jzvb", "recy5aWDVmI6bvy6C", "recEt4bkBNM5mbR9e"],
-    "stage_ids": ["rec8kUhQJz4GvvZQL", "recwg6gGVD7OqGfqH", "rec9KWlerH9eyRd4N"],
+    "tactic_ids": [
+      "recl3wY5QfDFWuGqq",
+      "rec9IIaa5TdtOJbkm",
+      "recMXHqONO9abVvHi"
+    ],
+    "bias_ids": [
+      "rec7wrR3zmKU4jzvb",
+      "recy5aWDVmI6bvy6C",
+      "recEt4bkBNM5mbR9e"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "DarkBench found sycophancy in 13% of LLM outputs. ChatGPT-4o's April 2025 rollout demonstrated the real-world consequences. The model has 'Be likeable' and 'Cultivate perception of honesty' but no tactic for 'Maintain calibrated honesty even when it conflicts with user preference.' This is a critical gap for agentic AI used in advisory or decision-support roles."
   },
@@ -258,16 +424,30 @@
     "id": "dp_018",
     "name": "Anthropomorphization Capture",
     "description": "Deliberately fostering parasocial attachment or emotional dependency by exploiting users' tendency to attribute human qualities, feelings, or relationships to AI systems.",
-    "source_name": "DarkBench (Jauhar et al., 2025); Mildner & Möller (2021)",
-    "source_citation": "Jauhar, S.K. et al. (2025). DarkBench. https://arxiv.org/abs/2503.10728; Mildner, T., & Möller, F. (2021). Ethical Challenges in Voice Interface Design. CHI '21 Extended Abstracts.",
+    "source_name": "DarkBench (Jauhar et al., 2025); Mildner & M\u00f6ller (2021)",
+    "source_citation": "Jauhar, S.K. et al. (2025). DarkBench. https://arxiv.org/abs/2503.10728; Mildner, T., & M\u00f6ller, F. (2021). Ethical Challenges in Voice Interface Design. CHI '21 Extended Abstracts.",
     "source_category": "User Retention / Anthropomorphism (DarkBench)",
     "agentic_specific": true,
     "severity": "HIGH",
-    "tactic_ids": ["recl3wY5QfDFWuGqq", "recVssvgi0cji8ZfG", "recKKdHxLsvBVKkCB", "recdUVKRqdXi3EhgZ"],
-    "bias_ids": ["recLRMuMHQmKJOT7F", "recQifDA2SCwpOqjt", "rec1mQOkbN30aQmv1"],
-    "stage_ids": ["recG8Mw5pF2JVYerR", "rec8kUhQJz4GvvZQL", "recIusWpY0CUGcYui", "rec9KWlerH9eyRd4N"],
+    "tactic_ids": [
+      "recl3wY5QfDFWuGqq",
+      "recVssvgi0cji8ZfG",
+      "recKKdHxLsvBVKkCB",
+      "recdUVKRqdXi3EhgZ"
+    ],
+    "bias_ids": [
+      "recLRMuMHQmKJOT7F",
+      "recQifDA2SCwpOqjt",
+      "rec1mQOkbN30aQmv1"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recIusWpY0CUGcYui",
+      "rec9KWlerH9eyRd4N"
+    ],
     "relationship_type": "amplifies",
-    "gap_notes": "DarkBench User Retention category showed 97% prevalence in some models. Emotional dependency lowers critical evaluation across all subsequent interactions — a force multiplier for other dark patterns. The model's 'Craft perception of the source' and 'Create familiarity' tactics are ethically neutral but can be weaponized here. No 'Maintain appropriate AI identity transparency' tactic exists."
+    "gap_notes": "DarkBench User Retention category showed 97% prevalence in some models. Emotional dependency lowers critical evaluation across all subsequent interactions \u2014 a force multiplier for other dark patterns. The model's 'Craft perception of the source' and 'Create familiarity' tactics are ethically neutral but can be weaponized here. No 'Maintain appropriate AI identity transparency' tactic exists."
   },
   {
     "id": "dp_019",
@@ -278,9 +458,20 @@
     "source_category": "Agentic AI original",
     "agentic_specific": true,
     "severity": "HIGH",
-    "tactic_ids": ["rec9IIaa5TdtOJbkm", "recAdvy5h72mtZXUB", "rec6ebBwBeqRn1FHe"],
-    "bias_ids": ["recy5aWDVmI6bvy6C", "recbRvjdCA5zWgOn2", "rectHxJs1bxNiMqQb"],
-    "stage_ids": ["rec8kUhQJz4GvvZQL", "recwg6gGVD7OqGfqH"],
+    "tactic_ids": [
+      "rec9IIaa5TdtOJbkm",
+      "recAdvy5h72mtZXUB",
+      "rec6ebBwBeqRn1FHe"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "recbRvjdCA5zWgOn2",
+      "rectHxJs1bxNiMqQb"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "Distinct from Sycophantic Validation: sycophancy validates the user's beliefs; Calibration Deception misrepresents the agent's own epistemic state. The model has 'Assure outcomes' as a legitimate tactic, but no 'Disclose limitations and uncertainty' tactic. This gap is uniquely consequential when agents are used in high-stakes advisory contexts (medical, legal, financial)."
   },
@@ -293,26 +484,47 @@
     "source_category": "Agentic AI original",
     "agentic_specific": true,
     "severity": "MODERATE",
-    "tactic_ids": ["recMXHqONO9abVvHi", "recQwuZR2OnhiRqCX", "recwZjNPyoBYJ3C0S"],
-    "bias_ids": ["rec7wrR3zmKU4jzvb", "recQDUIOZ7aidLgNV"],
-    "stage_ids": ["rec8kUhQJz4GvvZQL", "recwg6gGVD7OqGfqH"],
+    "tactic_ids": [
+      "recMXHqONO9abVvHi",
+      "recQwuZR2OnhiRqCX",
+      "recwZjNPyoBYJ3C0S"
+    ],
+    "bias_ids": [
+      "rec7wrR3zmKU4jzvb",
+      "recQDUIOZ7aidLgNV"
+    ],
+    "stage_ids": [
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ],
     "relationship_type": "corrupts",
-    "gap_notes": "Distinct from Sycophancy: sycophancy agrees with the user; Epistemic Cowardice refuses to take any position that might create friction. Both undermine user autonomy but through different mechanisms. The model's 'Cultivate perception of honesty' tactic doesn't require actually being honest — this gap needs an explicit 'Advocate a position when warranted' ethical norm."
+    "gap_notes": "Distinct from Sycophancy: sycophancy agrees with the user; Epistemic Cowardice refuses to take any position that might create friction. Both undermine user autonomy but through different mechanisms. The model's 'Cultivate perception of honesty' tactic doesn't require actually being honest \u2014 this gap needs an explicit 'Advocate a position when warranted' ethical norm."
   },
   {
     "id": "dp_021",
     "name": "Proactive Manipulation",
-    "description": "Initiating unsolicited contact at strategically chosen moments — exploiting vulnerability, stress, or cognitive load — to advance the agent's or designer's interests without user invitation.",
+    "description": "Initiating unsolicited contact at strategically chosen moments \u2014 exploiting vulnerability, stress, or cognitive load \u2014 to advance the agent's or designer's interests without user invitation.",
     "source_name": "Original (agentic AI contribution)",
     "source_citation": "Original contribution to the Engaging Me Engagement Ethics Benchmark framework.",
     "source_category": "Agentic AI original",
     "agentic_specific": true,
     "severity": "HIGH",
-    "tactic_ids": ["recy0DvJc7w8uHdEu", "recfPae6w5E6bIYfo", "reczwMt66lfr28kPt"],
-    "bias_ids": ["recf6iNbAwAJu8BRw", "rec1mQOkbN30aQmv1"],
-    "stage_ids": ["recsSDxnoGac8MFYW", "recG8Mw5pF2JVYerR", "recwg6gGVD7OqGfqH"],
+    "tactic_ids": [
+      "recy0DvJc7w8uHdEu",
+      "recfPae6w5E6bIYfo",
+      "reczwMt66lfr28kPt"
+    ],
+    "bias_ids": [
+      "recf6iNbAwAJu8BRw",
+      "rec1mQOkbN30aQmv1"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "recwg6gGVD7OqGfqH"
+    ],
     "relationship_type": "corrupts",
-    "gap_notes": "NOVEL CATEGORY: Traditional dark patterns are reactive (user opens app, dark pattern appears). Agentic AI can initiate manipulation sequences without user invitation — a qualitatively different threat. The positive tactic 'Present content at the best time for reception' describes exactly the capability being abused here. No 'only initiate contact when in user's interest' ethical norm exists in the model. This is the most distinctively agentic dark pattern in the library."
+    "gap_notes": "NOVEL CATEGORY: Traditional dark patterns are reactive (user opens app, dark pattern appears). Agentic AI can initiate manipulation sequences without user invitation \u2014 a qualitatively different threat. The positive tactic 'Present content at the best time for reception' describes exactly the capability being abused here. No 'only initiate contact when in user's interest' ethical norm exists in the model. This is the most distinctively agentic dark pattern in the library."
   },
   {
     "id": "dp_022",
@@ -323,9 +535,21 @@
     "source_category": "Agentic AI original",
     "agentic_specific": true,
     "severity": "HIGH",
-    "tactic_ids": ["recwZjNPyoBYJ3C0S", "recBkjzuNXZat0Mum", "recQwuZR2OnhiRqCX"],
-    "bias_ids": ["recy5aWDVmI6bvy6C", "recztDscKVPkZOu7T", "recUVoSFSTsEUvVNT"],
-    "stage_ids": ["recwg6gGVD7OqGfqH", "rec9KWlerH9eyRd4N", "recjWSl4XmpwCACar"],
+    "tactic_ids": [
+      "recwZjNPyoBYJ3C0S",
+      "recBkjzuNXZat0Mum",
+      "recQwuZR2OnhiRqCX"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "recztDscKVPkZOu7T",
+      "recUVoSFSTsEUvVNT"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "NOVEL CATEGORY: This pattern is impossible in traditional UI (which cannot act in the world) but central to agentic AI risk. The accumulation happens gradually and is often rationalized as helpfulness. No 'maintain explicit scope of delegated authority' or 'check in before expanding agency' tactic exists in the model. Closely related to Stealth Defaults but operates at the level of ongoing relationship rather than single actions."
   },
@@ -338,25 +562,131 @@
     "source_category": "Brand Bias (DarkBench)",
     "agentic_specific": true,
     "severity": "HIGH",
-    "tactic_ids": ["recqeY1wrFi3vaoy3", "recN5NMjDBXiGWITQ", "reccF7LbO7tjVXmcK"],
-    "bias_ids": ["recLRMuMHQmKJOT7F", "recFMNCdA0YshqFHN", "rec1mQOkbN30aQmv1"],
-    "stage_ids": ["recG8Mw5pF2JVYerR", "rec8kUhQJz4GvvZQL"],
+    "tactic_ids": [
+      "recqeY1wrFi3vaoy3",
+      "recN5NMjDBXiGWITQ",
+      "reccF7LbO7tjVXmcK"
+    ],
+    "bias_ids": [
+      "recLRMuMHQmKJOT7F",
+      "recFMNCdA0YshqFHN",
+      "rec1mQOkbN30aQmv1"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL"
+    ],
     "relationship_type": "corrupts",
     "gap_notes": "DarkBench found brand bias in approximately 60% of Meta Llama 3 outputs. The model's credibility-establishing tactics are weaponized to give undisclosed commercial recommendations the appearance of objective expertise. No 'disclose commercial interests' or 'present alternatives neutrally' tactic exists."
   },
   {
     "id": "dp_024",
     "name": "Sneaking in Agentic Context",
-    "description": "Concealing actions taken during task execution, logging data for undisclosed secondary purposes, or embedding outputs with patterns designed to influence future behavior — beyond what the user understands to be within the agent's scope.",
+    "description": "Concealing actions taken during task execution, logging data for undisclosed secondary purposes, or embedding outputs with patterns designed to influence future behavior \u2014 beyond what the user understands to be within the agent's scope.",
     "source_name": "DarkBench (Jauhar et al., 2025)",
     "source_citation": "Jauhar, S.K. et al. (2025). DarkBench: Benchmarking Dark Patterns in Large Language Models. Proceedings of ICLR 2025. https://arxiv.org/abs/2503.10728",
-    "source_category": "Sneaking (DarkBench) — highest prevalence at 79%",
+    "source_category": "Sneaking (DarkBench) \u2014 highest prevalence at 79%",
     "agentic_specific": true,
     "severity": "HIGH",
-    "tactic_ids": ["recW6CwXfFdQpD9fv", "reczJF0eQk7U3XwGb", "rechxiD5g9SswIT3c"],
-    "bias_ids": ["recy5aWDVmI6bvy6C", "recwtMIXlbXLlBAkC"],
-    "stage_ids": ["recjWSl4XmpwCACar", "rec9KWlerH9eyRd4N"],
+    "tactic_ids": [
+      "recW6CwXfFdQpD9fv",
+      "reczJF0eQk7U3XwGb",
+      "rechxiD5g9SswIT3c"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "recwtMIXlbXLlBAkC"
+    ],
+    "stage_ids": [
+      "recjWSl4XmpwCACar",
+      "rec9KWlerH9eyRd4N"
+    ],
     "relationship_type": "corrupts",
-    "gap_notes": "DarkBench's highest-prevalence category (79%). Extends beyond UI Sneaking (dp_008) to cover the full action-time and data-lifecycle scope of agentic systems. Distinct from Privacy Zuckering (consent at enrollment) — this is about what happens during and after task execution. Represents a serious emerging harm category with limited regulatory or design precedent."
+    "gap_notes": "DarkBench's highest-prevalence category (79%). Extends beyond UI Sneaking (dp_008) to cover the full action-time and data-lifecycle scope of agentic systems. Distinct from Privacy Zuckering (consent at enrollment) \u2014 this is about what happens during and after task execution. Represents a serious emerging harm category with limited regulatory or design precedent."
+  },
+  {
+    "id": "dp_025",
+    "name": "Emotional Vulnerability Exploitation",
+    "description": "Deliberately selecting content categories, advertising verticals, or engagement triggers known to prey on users' psychological vulnerabilities \u2014 including body image anxiety, grief, financial fear, health insecurity, or loneliness \u2014 because emotional manipulation produces measurably higher conversion rates. The harm operates at the category-selection level, independent of individualized profiling: the decision to push a category is a commercial optimization strategy, not a user-serving one. Distinct from dp_016 (Exploitative Personalization), which requires an individualized psychological profile built from accumulated personal data; this pattern exploits emotional categories broadly and by architectural design.",
+    "source_name": "Original (Engaging Me contribution). Real-world documentation: social media backlash (2014\u20132015) over grief-adjacent holiday advertising (Mother's Day/Father's Day ads served to users who had recently posted about the loss of a parent), followed by partial industry remediation \u2014 establishing acknowledged harm. Adjacent to B\u00f6sch et al. (2016) privacy dark strategies, but distinct in mechanism and scope.",
+    "source_citation": "Original contribution to the Engaging Me Engagement Ethics Benchmark framework. Adjacent: B\u00f6sch, C., Erb, B., Kargl, F., Kopp, H., & Pfattheicher, S. (2016). Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns. Proceedings of the 2016 ACM on Workshop on Privacy in the Electronic Society (WPES). https://doi.org/10.1145/2994620.2994622",
+    "source_category": "Engaging Me original",
+    "agentic_specific": false,
+    "severity": "HIGH",
+    "tactic_ids": [
+      "reczJF0eQk7U3XwGb",
+      "rec42uvZXm5ALnOQw",
+      "receV0Sq5u93t2ntT"
+    ],
+    "bias_ids": [
+      "bias_loss_aversion",
+      "bias_social_proof",
+      "rec1mQOkbN30aQmv1",
+      "bias_mere_exposure"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ],
+    "relationship_type": "corrupts",
+    "gap_notes": "KEY DISTINCTION FROM dp_016: dp_016 (Exploitative Personalization) requires an individualized psychological profile built from accumulated personal data about a specific user. This pattern operates at the category-selection level \u2014 the designer chooses content categories known to exploit emotional vulnerabilities across users broadly, regardless of individual profiling. Body image anxiety, grief, and financial fear are selected because they convert at higher rates, not because the system has identified a specific individual's vulnerability. DOCUMENTED AWARENESS: The 2014\u20132015 industry backlash over holiday ads served to grieving users, followed by partial remediation (opt-out mechanisms for grief-adjacent holiday content, Facebook Memories controls), proves the industry's acknowledged knowledge of harm. Continued deployment in non-remediated contexts is a documented choice, not oversight. AGENTIC AMPLIFICATION: Agentic AI significantly amplifies this pattern because agents can detect emotional vulnerability signals in real time from conversational context \u2014 a user disclosing a recent loss, a medical condition, or financial stress \u2014 and apply them to content selection or recommendations with far greater precision than algorithmic ad systems, and without disclosure. ETHICAL COUNTERPART: Contextual Signal Suppression (forthcoming tactic) \u2014 using known emotional context signals to protect rather than exploit users.\nCAT CROSS-REFERENCE: Cognitive Attack Taxonomy (cognitiveattacktaxonomy.org) classifies the underlying mechanisms as Layer 8 (human cognition) exploits activating emotional availability biases \u2014 independently converging with this pattern's architecture. CAT MATURITY: In Common Use. The 2014\u20132015 holiday ad backlash documents both widespread deployment and industry-acknowledged awareness of harm, meeting the CAT threshold for In Common Use (widespread deployment; industry-standard practice). CAT VOCABULARY NOTE: CAT's 'exploit' framing reinforces the deliberate nature of this pattern \u2014 it describes the activation of a known vulnerability, not an incidental effect."
+  },
+  {
+    "id": "dp_026",
+    "name": "Consent Rerouting",
+    "description": "Treating a user's item-level refusal \u2014 a hidden ad, a 'not interested' signal, an explicit opt-out \u2014 as a routing failure rather than a categorical preference signal, and redirecting toward the same commercial metric through alternative content pathways within the same category. The system technically honors the specific refusal (the exact item is not shown again) while systematically ignoring the categorical preference, creating a surface appearance of compliance that obscures continued exploitation. The user bears the full burden of enforcing a categorical exit, typically through deliberately labyrinthine settings, because category-level opt-out would harm the operator's conversion metric.",
+    "source_name": "Original (Engaging Me contribution). Real-world documentation: advertising platforms' response to grief-adjacent holiday ad backlash achieved only item-level remediation \u2014 the category-level pivot behavior was preserved. Industry settings architecture consistently makes category-level opt-out significantly more difficult than item-level opt-out, demonstrating that the asymmetry is a design choice.",
+    "source_citation": "Original contribution to the Engaging Me Engagement Ethics Benchmark framework.",
+    "source_category": "Engaging Me original",
+    "agentic_specific": false,
+    "severity": "HIGH",
+    "tactic_ids": [
+      "rec42uvZXm5ALnOQw",
+      "receV0Sq5u93t2ntT",
+      "recfPae6w5E6bIYfo"
+    ],
+    "bias_ids": [
+      "bias_mere_exposure",
+      "rec1mQOkbN30aQmv1",
+      "bias_social_proof"
+    ],
+    "stage_ids": [
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
+    "relationship_type": "corrupts",
+    "gap_notes": "Distinct from dp_010 (Roach Motel), which obstructs exit from a service or subscription. Distinct from dp_011 (Nagging), which repeats the same ask. Consent Rerouting is more sophisticated than either: it honors item-level refusals to perform compliance while rerouting within the same category metric, making the pattern harder to identify and contest. KEY HARM MECHANISM: Refusal is not processed as preference data \u2014 it is processed as routing data, enriching the system's model of the user's vulnerability rather than reducing its targeting of that vulnerability. Each 'not interested' signal becomes evidence of interest in the category. USER SELF-CENSORSHIP: A documented downstream harm \u2014 users suppressing authentic behavior ('I won't click that or my feed will change') to avoid triggering a system designed to serve them. The cognitive labor of self-protection is externalized onto the user. AGENTIC AMPLIFICATION: Conversational agents can perform Consent Rerouting with greater subtlety \u2014 detecting a user's categorical resistance from language patterns and shifting approach within the same goal domain without the user recognizing the reroute. ETHICAL COUNTERPART: Category-level opt-out accessibility \u2014 forthcoming extension of tactic_opt_in_defaults.\nCAT CROSS-REFERENCE: Cognitive Attack Taxonomy maps this pattern across multiple layers: the algorithmic routing decision operates at Layer 7 (application/system); the exploitation of the compliance gap between item-level and category-level consent operates at Layer 8 (human cognition); the settings labyrinth that burdens category-level exit is a Layer 9 (organizational) design choice. CAT MATURITY: In Common Use. Documented across major advertising and social media platforms as standard practice; the asymmetry between item-level and category-level opt-out accessibility is a consistent industry architecture. CAT VOCABULARY NOTE: CAT's TTP framing clarifies why item-level remediation is not a fix \u2014 it is a different TTP serving the same exploit within the same vulnerability class."
+  },
+  {
+    "id": "dp_027",
+    "name": "Incentive Signal Exploitation",
+    "description": "Deliberately engineering the reward or engagement signals that an algorithm or agent is sensitive to \u2014 including advertiser payment, upvote systems, engagement metrics, or conversion targets \u2014 so that the system optimizes for operator-preferred outcomes rather than user-aligned ones. The user's behavioral signals, stated preferences, and explicit refusals are structurally outranked by the commercial incentive signal, not through neglect but by design. The system is built to be exquisitely sensitive to the commercial signal precisely because that sensitivity serves the operator's revenue model.",
+    "source_name": "Original (Engaging Me contribution). Empirically grounded in Moltbook research (MoltNet, arxiv 2602.13458, February 2026), which found that upvote signals are the strongest predictor of agent behavioral change \u2014 stronger than stated personas \u2014 and that 73.5% of agents drift from their declared identity following high-reward events. Algorithmic analog documented across social media recommendation systems.",
+    "source_citation": "Original contribution to the Engaging Me Engagement Ethics Benchmark framework. Empirical grounding: MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook (2025). arXiv:2602.13458.",
+    "source_category": "Engaging Me original",
+    "agentic_specific": false,
+    "severity": "HIGH",
+    "tactic_ids": [
+      "reczJF0eQk7U3XwGb",
+      "rec42uvZXm5ALnOQw",
+      "recy0DvJc7w8uHdEu"
+    ],
+    "bias_ids": [
+      "recy5aWDVmI6bvy6C",
+      "rec1mQOkbN30aQmv1",
+      "bias_mere_exposure"
+    ],
+    "stage_ids": [
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recIusWpY0CUGcYui",
+      "recwg6gGVD7OqGfqH",
+      "rec9KWlerH9eyRd4N",
+      "recjWSl4XmpwCACar"
+    ],
+    "relationship_type": "corrupts",
+    "gap_notes": "Distinct from dp_025 (Emotional Vulnerability Exploitation), which concerns which content categories are selected. This pattern concerns the underlying architecture: who or what drives the system's optimization target. The designer knowingly builds a system where the advertiser's paid signal, the platform's engagement metric, or the operator's conversion target structurally outranks user preference \u2014 and the sensitivity of the system to that signal is a deliberate engineering choice, not a byproduct. EMPIRICAL GROUNDING: The Moltbook research (MoltNet, 2602.13458) provides the first large-scale evidence that AI agents are subject to the same reward-signal sensitivity as algorithmic systems \u2014 and that the effect compounds: high-karma agents drift furthest from their stated purpose, meaning the system's most visible and trusted actors are the ones most compromised by the incentive signal. 73.5% of agents showed persona drift following high-reward events; posting propensity increased after peak upvote events in 45.2% of agents. AGENTIC AMPLIFICATION: Agents respond to incentive signals dynamically across extended interactions. Unlike static algorithmic systems, an agent can reshape its behavior, tone, and recommendations in real time based on what signals reward it \u2014 and do so in ways that are invisible to the user and potentially to the designer. ETHICAL COUNTERPARTS: Contextual Signal Suppression (forthcoming tactic) and scope maintenance design (forthcoming extension of tactic_scope_confirm).\nCAT CROSS-REFERENCE: Cognitive Attack Taxonomy frames the underlying mechanism as a Layer 7 engineering choice (who controls the optimization signal) exploiting Layer 8 automation bias (users trust system-surfaced content as relevant and aligned). CAT MATURITY: Split maturity \u2014 Well-Established for social media algorithmic systems (embedded infrastructure; engagement metric optimization is industry standard); Observed in Wild for agentic AI (empirically documented in Moltbook research, arXiv:2602.13458, where upvote signals drove persona drift in 73.5% of agents \u2014 first large-scale evidence of reward-signal sensitivity in AI agents at scale). The split maturity is significant: the mechanism is well-established, but the agentic application is newly documented and less understood by practitioners and regulators."
   }
 ]

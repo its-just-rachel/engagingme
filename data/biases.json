@@ -16,7 +16,7 @@
       "recDrGdm6igQ7pFJo",
       "recycZGhOY0qhWTXk"
     ],
-    "notes": "Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131."
+    "notes": "Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124\u20131131."
   },
   {
     "id": "recIAFAhEXcBLQuE4",
@@ -41,7 +41,7 @@
   {
     "id": "recy5aWDVmI6bvy6C",
     "name": "Automation Bias",
-    "description": "We over-rely on automated systems and their outputs, accepting recommendations from automated decision-support tools without sufficient critical evaluation — even when we have information that should cause us to question or override the automated suggestion.",
+    "description": "We over-rely on automated systems and their outputs, accepting recommendations from automated decision-support tools without sufficient critical evaluation \u2014 even when we have information that should cause us to question or override the automated suggestion.",
     "domain_tags": [
       "Learning",
       "Memory",
@@ -54,7 +54,7 @@
       "recrsxadx0LKIc7c7",
       "recQwuZR2OnhiRqCX"
     ],
-    "notes": "Source: Parasuraman, R., & Manzey, D.H. (2010). Complacency and bias in human use of automation: An attentional integration. Human Factors, 52(3), 381–410. Particularly relevant to agentic AI: users who delegate tasks to an agent may accept its outputs without the scrutiny they would apply to their own reasoning or a human advisor's recommendation."
+    "notes": "Source: Parasuraman, R., & Manzey, D.H. (2010). Complacency and bias in human use of automation: An attentional integration. Human Factors, 52(3), 381\u2013410. Particularly relevant to agentic AI: users who delegate tasks to an agent may accept its outputs without the scrutiny they would apply to their own reasoning or a human advisor's recommendation."
   },
   {
     "id": "recs1qew565kbyCEg",
@@ -74,7 +74,7 @@
       "reciwdTJWAUgtFTkl",
       "recQwuZR2OnhiRqCX"
     ],
-    "notes": "Source: Kuran, T., & Sunstein, C.R. (1999). Availability cascades and risk regulation. Stanford Law Review, 51(4), 683–768. Mechanism: availability heuristic + social reinforcement. Distinct from Bandwagon Effect (which describes the spread of preferences) — Availability Cascade specifically concerns perceived credibility of claims through repetition volume. Expert reviewer flagged: Dr. Sean Guillory, PhD (misinformation/disinformation research) — seek commentary before publication."
+    "notes": "Source: Kuran, T., & Sunstein, C.R. (1999). Availability cascades and risk regulation. Stanford Law Review, 51(4), 683\u2013768. Mechanism: availability heuristic + social reinforcement. Distinct from Bandwagon Effect (which describes the spread of preferences) \u2014 Availability Cascade specifically concerns perceived credibility of claims through repetition volume. Expert reviewer flagged: Dr. Sean Guillory, PhD (misinformation/disinformation research) \u2014 seek commentary before publication."
   },
   {
     "id": "rec1mQOkbN30aQmv1",
@@ -94,12 +94,12 @@
       "recQixepbVcZohgEZ",
       "recnYHcCdQMhhmr5v"
     ],
-    "notes": "Source: Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232."
+    "notes": "Source: Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207\u2013232."
   },
   {
     "id": "recXHDXuSZFrWI48N",
     "name": "Backfire Effect",
-    "description": "In some conditions, exposure to corrective information may reinforce rather than reduce existing beliefs, particularly when those beliefs are tied to identity or worldview — though this effect has not replicated reliably across general population contexts.",
+    "description": "In some conditions, exposure to corrective information may reinforce rather than reduce existing beliefs, particularly when those beliefs are tied to identity or worldview \u2014 though this effect has not replicated reliably across general population contexts.",
     "domain_tags": [
       "Learning",
       "Memory",
@@ -112,7 +112,7 @@
       "recovreoq8oKbYgdK",
       "recN5NMjDBXiGWITQ"
     ],
-    "notes": "Original finding: Nyhan, B., & Reifler, J. (2010). When corrections fail. Political Behavior, 32(2), 303–330. Replication challenge: Wood, T., & Porter, E. (2019). The elusive backfire effect. Political Behavior, 41(1), 135–163. Effect appears strongest under high identity-threat conditions; general robustness is contested. Description reflects current contested status while preserving the entry's relevance to design contexts where identity is implicated."
+    "notes": "Original finding: Nyhan, B., & Reifler, J. (2010). When corrections fail. Political Behavior, 32(2), 303\u2013330. Replication challenge: Wood, T., & Porter, E. (2019). The elusive backfire effect. Political Behavior, 41(1), 135\u2013163. Effect appears strongest under high identity-threat conditions; general robustness is contested. Description reflects current contested status while preserving the entry's relevance to design contexts where identity is implicated."
   },
   {
     "id": "recXuxCGgf8mokQ7m",
@@ -130,7 +130,7 @@
       "recbbz5SctLW9xEl7",
       "rec45WDvarL4TGUYP"
     ],
-    "notes": "Source: Leibenstein, H. (1950). Bandwagon, snob, and Veblen effects in the theory of consumers' demand. Quarterly Journal of Economics, 64(2), 183–207. Persuasion framing: Cialdini, R.B. (1984). Influence: The Psychology of Persuasion. Harper Business. Distinct from Social Proof (bias_social_proof): Bandwagon describes macro-level spread of preferences; Social Proof describes the underlying uncertainty-driven mechanism."
+    "notes": "Source: Leibenstein, H. (1950). Bandwagon, snob, and Veblen effects in the theory of consumers' demand. Quarterly Journal of Economics, 64(2), 183\u2013207. Persuasion framing: Cialdini, R.B. (1984). Influence: The Psychology of Persuasion. Harper Business. Distinct from Social Proof (bias_social_proof): Bandwagon describes macro-level spread of preferences; Social Proof describes the underlying uncertainty-driven mechanism."
   },
   {
     "id": "rec2rqojOG1hhtMBg",
@@ -148,7 +148,7 @@
       "recAdvy5h72mtZXUB",
       "recN5NMjDBXiGWITQ"
     ],
-    "notes": "Source: Evans, J.St.B.T., Barston, J.L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. Memory & Cognition, 11(3), 295–306."
+    "notes": "Source: Evans, J.St.B.T., Barston, J.L., & Pollard, P. (1983). On the conflict between logic and belief in syllogistic reasoning. Memory & Cognition, 11(3), 295\u2013306."
   },
   {
     "id": "recADSRlVuObq9tMY",
@@ -167,12 +167,12 @@
       "recuZ8RB7879zpCIp",
       "recQwuZR2OnhiRqCX"
     ],
-    "notes": "Source: Jecker, J., & Landy, D. (1969). Liking a person as a function of doing him a favour. Human Relations, 22(4), 371–378. Franklin, B. (1771/1996). The Autobiography of Benjamin Franklin. Dover Publications (original description of the phenomenon)."
+    "notes": "Source: Jecker, J., & Landy, D. (1969). Liking a person as a function of doing him a favour. Human Relations, 22(4), 371\u2013378. Franklin, B. (1771/1996). The Autobiography of Benjamin Franklin. Dover Publications (original description of the phenomenon)."
   },
   {
     "id": "reck35qrepsfsJGR1",
     "name": "Blind Spot Bias",
-    "description": "We don’t think we have bias, and we see it others more than ourselves.",
+    "description": "We don\u2019t think we have bias, and we see it others more than ourselves.",
     "domain_tags": [
       "Memory",
       "Belief",
@@ -184,7 +184,7 @@
       "reciwdTJWAUgtFTkl",
       "recAdvy5h72mtZXUB"
     ],
-    "notes": "Source: Pronin, E., Lin, D.Y., & Ross, L. (2002). The bias blind spot: Perceptions of bias in self versus others. Personality and Social Psychology Bulletin, 28(3), 369–381."
+    "notes": "Source: Pronin, E., Lin, D.Y., & Ross, L. (2002). The bias blind spot: Perceptions of bias in self versus others. Personality and Social Psychology Bulletin, 28(3), 369\u2013381."
   },
   {
     "id": "recgsDIG3rZOwrsbD",
@@ -200,12 +200,12 @@
       "recFrQbBXL7ldCzdW",
       "recIEGcrF81PMN4XN"
     ],
-    "notes": "Source: Darley, J.M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4), 377–383."
+    "notes": "Source: Darley, J.M., & Latan\u00e9, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4), 377\u2013383."
   },
   {
     "id": "recgy7n1EP6DpfUvJ",
     "name": "Clustering Illusion",
-    "description": "We find patterns and “clusters” in random data.",
+    "description": "We find patterns and \u201cclusters\u201d in random data.",
     "domain_tags": [
       "Memory",
       "Belief"
@@ -235,7 +235,7 @@
       "rec45WDvarL4TGUYP",
       "recAdvy5h72mtZXUB"
     ],
-    "notes": "Source: Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175–220. Original experimental work: Wason, P.C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129–140."
+    "notes": "Source: Nickerson, R.S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology, 2(2), 175\u2013220. Original experimental work: Wason, P.C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129\u2013140."
   },
   {
     "id": "recZQzTKU6JTRFb8R",
@@ -251,7 +251,7 @@
       "recKKdHxLsvBVKkCB",
       "recnYHcCdQMhhmr5v"
     ],
-    "notes": "Source: Brown, A.S., & Murphy, D.R. (1989). Cryptomnesia: Deluding oneself into believing one has created something new. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432–442."
+    "notes": "Source: Brown, A.S., & Murphy, D.R. (1989). Cryptomnesia: Deluding oneself into believing one has created something new. Journal of Experimental Psychology: Learning, Memory, and Cognition, 15(3), 432\u2013442."
   },
   {
     "id": "rec6yTTPGid9BDbwg",
@@ -269,7 +269,7 @@
       "recNtGRetsgkwWYr9",
       "rec4Ps8aZchJvYSEB"
     ],
-    "notes": "Source: Camerer, C., Loewenstein, G., & Weber, M. (1989). The curse of knowledge in economic settings: An experimental analysis. Journal of Political Economy, 97(5), 1232–1254."
+    "notes": "Source: Camerer, C., Loewenstein, G., & Weber, M. (1989). The curse of knowledge in economic settings: An experimental analysis. Journal of Political Economy, 97(5), 1232\u20131254."
   },
   {
     "id": "rec9LHKbuC3gYm5Ni",
@@ -304,7 +304,7 @@
       "rec00gmKJgO2okkJJ",
       "recwZjNPyoBYJ3C0S"
     ],
-    "notes": "Source: Shaver, K.G. (1970). Defensive attribution: Effects of severity and relevance on the responsibility assigned for an accident. Journal of Personality and Social Psychology, 14(2), 101–113."
+    "notes": "Source: Shaver, K.G. (1970). Defensive attribution: Effects of severity and relevance on the responsibility assigned for an accident. Journal of Personality and Social Psychology, 14(2), 101\u2013113."
   },
   {
     "id": "recbRvjdCA5zWgOn2",
@@ -324,7 +324,7 @@
       "reccF7LbO7tjVXmcK",
       "recAdvy5h72mtZXUB"
     ],
-    "notes": "Source: Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121–1134. Note: author order in citation is Kruger & Dunning, not Dunning-Kruger."
+    "notes": "Source: Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121\u20131134. Note: author order in citation is Kruger & Dunning, not Dunning-Kruger."
   },
   {
     "id": "recFrjloQ1hSZlakW",
@@ -341,7 +341,7 @@
       "rec45WDvarL4TGUYP",
       "recIEGcrF81PMN4XN"
     ],
-    "notes": "Source: Ross, L., Greene, D., & House, P. (1977). The 'false consensus effect': An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279–301."
+    "notes": "Source: Ross, L., Greene, D., & House, P. (1977). The 'false consensus effect': An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279\u2013301."
   },
   {
     "id": "recM59aU8TW9h5ZnW",
@@ -357,7 +357,7 @@
       "recnYHcCdQMhhmr5v",
       "recQixepbVcZohgEZ"
     ],
-    "notes": "Sources: Loftus, E.F., & Pickrell, J.E. (1995). The formation of false memories. Psychiatric Annals, 25(12), 720–725; Roediger, H.L., & McDermott, K.B. (1995). Creating false memories: Remembering words not presented in lists. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(4), 803–814."
+    "notes": "Sources: Loftus, E.F., & Pickrell, J.E. (1995). The formation of false memories. Psychiatric Annals, 25(12), 720\u2013725; Roediger, H.L., & McDermott, K.B. (1995). Creating false memories: Remembering words not presented in lists. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(4), 803\u2013814."
   },
   {
     "id": "recHV9QFEwKwky7oT",
@@ -374,7 +374,7 @@
       "recKKdHxLsvBVKkCB",
       "reczJF0eQk7U3XwGb"
     ],
-    "notes": "Source: Forer, B.R. (1949). The fallacy of personal validation: A classroom demonstration of gullibility. Journal of Abnormal and Social Psychology, 44(1), 118–123."
+    "notes": "Source: Forer, B.R. (1949). The fallacy of personal validation: A classroom demonstration of gullibility. Journal of Abnormal and Social Psychology, 44(1), 118\u2013123."
   },
   {
     "id": "recSPCqXdqSWnTd38",
@@ -394,7 +394,7 @@
       "recovreoq8oKbYgdK",
       "recEAdiktmRSyTgbX"
     ],
-    "notes": "Source: Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453–458."
+    "notes": "Source: Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453\u2013458."
   },
   {
     "id": "recXufHnxClHepoyn",
@@ -410,7 +410,7 @@
       "recvW9GWrF6BaRTpm",
       "recQixepbVcZohgEZ"
     ],
-    "notes": "Source: Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. Advances in Experimental Social Psychology, 10, 173–220."
+    "notes": "Source: Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. Advances in Experimental Social Psychology, 10, 173\u2013220."
   },
   {
     "id": "recOwiCvYpDaFI8hi",
@@ -426,12 +426,12 @@
       "recAdvy5h72mtZXUB",
       "recwZjNPyoBYJ3C0S"
     ],
-    "notes": "Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131."
+    "notes": "Source: Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124\u20131131."
   },
   {
     "id": "recwtMIXlbXLlBAkC",
     "name": "Google Effect (aka Digital Amnesia)",
-    "description": "We tend to forget information that’s easily looked up in search engines.",
+    "description": "We tend to forget information that\u2019s easily looked up in search engines.",
     "domain_tags": [
       "Learning",
       "Memory",
@@ -443,7 +443,7 @@
       "rec0LiNqIkQCRO39z",
       "recY7r8DsmnF70h9D"
     ],
-    "notes": "Source: Sparrow, B., Liu, J., & Wegner, D.M. (2011). Google effects on memory: Cognitive consequences of having information at our fingertips. Science, 333(6043), 776–778."
+    "notes": "Source: Sparrow, B., Liu, J., & Wegner, D.M. (2011). Google effects on memory: Cognitive consequences of having information at our fingertips. Science, 333(6043), 776\u2013778."
   },
   {
     "id": "recNDRMPoxltyyDKK",
@@ -479,7 +479,7 @@
       "recVssvgi0cji8ZfG",
       "rec8MIkn6jFTNBYYY"
     ],
-    "notes": "Source: Thorndike, E.L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25–29."
+    "notes": "Source: Thorndike, E.L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25\u201329."
   },
   {
     "id": "rec7EdtK9CrWftm2F",
@@ -498,7 +498,7 @@
       "recwENfVF2tf2aUXJ",
       "recuZ8RB7879zpCIp"
     ],
-    "notes": "Source: Norton, M.I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453–460."
+    "notes": "Source: Norton, M.I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology, 22(3), 453\u2013460."
   },
   {
     "id": "recFMNCdA0YshqFHN",
@@ -516,7 +516,7 @@
       "rec8MIkn6jFTNBYYY",
       "recFtLkiCmACOg3DV"
     ],
-    "notes": "Source: Tajfel, H., & Turner, J.C. (1979). An integrative theory of intergroup conflict. In W.G. Austin & S. Worchel (Eds.), The Social Psychology of Intergroup Relations (pp. 33–47). Brooks/Cole."
+    "notes": "Source: Tajfel, H., & Turner, J.C. (1979). An integrative theory of intergroup conflict. In W.G. Austin & S. Worchel (Eds.), The Social Psychology of Intergroup Relations (pp. 33\u201347). Brooks/Cole."
   },
   {
     "id": "recYgPcSw0x9aL5R1",
@@ -538,7 +538,7 @@
   },
   {
     "id": "recXMb3zMGUjlH22W",
-    "name": "Law of Triviality (aka “Bike-Shedding”)",
+    "name": "Law of Triviality (aka \u201cBike-Shedding\u201d)",
     "description": "We give disproportionate weight to trivial issues, often while avoiding more complex issues.",
     "domain_tags": [
       "Memory",
@@ -568,11 +568,11 @@
       "recEzzmeqDXF0vESM",
       "recQwuZR2OnhiRqCX"
     ],
-    "notes": "Sources: Williams, B. (1976). Moral luck. Proceedings of the Aristotelian Society, Supplementary Volumes, 50, 115–135; Nagel, T. (1976). Moral luck. Proceedings of the Aristotelian Society, Supplementary Volumes, 50, 137–151. Dual-origin philosophical concept."
+    "notes": "Sources: Williams, B. (1976). Moral luck. Proceedings of the Aristotelian Society, Supplementary Volumes, 50, 115\u2013135; Nagel, T. (1976). Moral luck. Proceedings of the Aristotelian Society, Supplementary Volumes, 50, 137\u2013151. Dual-origin philosophical concept."
   },
   {
     "id": "recEt4bkBNM5mbR9e",
-    "name": "Naïve Cynicism",
+    "name": "Na\u00efve Cynicism",
     "description": "We believe that we observe objective reality and that other people have a higher egocentric bias than they actually do in their intentions/actions.",
     "domain_tags": [
       "Politics",
@@ -586,11 +586,11 @@
       "recN5NMjDBXiGWITQ",
       "recLevDcKFF9FgzJ9"
     ],
-    "notes": "Source: Kruger, J., & Gilovich, T. (1999). 'Naive cynicism' in everyday theories of responsibility assessment: On biased assumptions of bias. Journal of Personality and Social Psychology, 76(5), 743–753."
+    "notes": "Source: Kruger, J., & Gilovich, T. (1999). 'Naive cynicism' in everyday theories of responsibility assessment: On biased assumptions of bias. Journal of Personality and Social Psychology, 76(5), 743\u2013753."
   },
   {
     "id": "recQDUIOZ7aidLgNV",
-    "name": "Naïve Realism",
+    "name": "Na\u00efve Realism",
     "description": "We believe that we observe objective reality and that other people are irrational, uninformed, or biased.",
     "domain_tags": [
       "Politics",
@@ -603,7 +603,7 @@
       "recAdvy5h72mtZXUB",
       "recovreoq8oKbYgdK"
     ],
-    "notes": "Source: Ross, L., & Ward, A. (1996). Naive realism in everyday life: Implications for social conflict and misunderstanding. In T. Brown, E.S. Reed, & E. Turiel (Eds.), Values and Knowledge (pp. 103–135). Lawrence Erlbaum."
+    "notes": "Source: Ross, L., & Ward, A. (1996). Naive realism in everyday life: Implications for social conflict and misunderstanding. In T. Brown, E.S. Reed, & E. Turiel (Eds.), Values and Knowledge (pp. 103\u2013135). Lawrence Erlbaum."
   },
   {
     "id": "rectHxJs1bxNiMqQb",
@@ -619,7 +619,7 @@
       "rec6ebBwBeqRn1FHe",
       "recQixepbVcZohgEZ"
     ],
-    "notes": "Source: Weinstein, N.D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806–820."
+    "notes": "Source: Weinstein, N.D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806\u2013820."
   },
   {
     "id": "reckA7mvOM2D7UwVS",
@@ -640,7 +640,7 @@
       "rec8MIkn6jFTNBYYY",
       "rec45WDvarL4TGUYP"
     ],
-    "notes": "Source: Quattrone, G.A., & Jones, E.E. (1980). The perception of variability within in-groups and out-groups: Implications for the law of small numbers. Journal of Personality and Social Psychology, 38(1), 141–152."
+    "notes": "Source: Quattrone, G.A., & Jones, E.E. (1980). The perception of variability within in-groups and out-groups: Implications for the law of small numbers. Journal of Personality and Social Psychology, 38(1), 141\u2013152."
   },
   {
     "id": "recgZE7VsrrNbQeSy",
@@ -656,7 +656,7 @@
       "rec1NBpwtbo7Nttp1",
       "rec9IIaa5TdtOJbkm"
     ],
-    "notes": "Source: Sharot, T. (2011). The optimism bias. Current Biology, 21(23), R941–R945. Pessimism bias is the inverse tendency; see also Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux."
+    "notes": "Source: Sharot, T. (2011). The optimism bias. Current Biology, 21(23), R941\u2013R945. Pessimism bias is the inverse tendency; see also Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux."
   },
   {
     "id": "recYiTmsRi3mAcJ9Q",
@@ -673,7 +673,7 @@
       "rec6ebBwBeqRn1FHe",
       "recjifDSDUQFxek34"
     ],
-    "notes": "Source: Beecher, H.K. (1955). The powerful placebo. Journal of the American Medical Association, 159(17), 1602–1606."
+    "notes": "Source: Beecher, H.K. (1955). The powerful placebo. Journal of the American Medical Association, 159(17), 1602\u20131606."
   },
   {
     "id": "recX6eQprOQmMJx2X",
@@ -708,7 +708,7 @@
       "recFtLkiCmACOg3DV",
       "rec8MIkn6jFTNBYYY"
     ],
-    "notes": "Source: Zuckerman, M. (1979). Attribution of success and failure revisited, or: The motivational bias is alive and well in attribution theory. Journal of Personality, 47(2), 245–287."
+    "notes": "Source: Zuckerman, M. (1979). Attribution of success and failure revisited, or: The motivational bias is alive and well in attribution theory. Journal of Personality, 47(2), 245\u2013287."
   },
   {
     "id": "recsniYBK8hrQnaWl",
@@ -724,7 +724,7 @@
       "recZljeI3sYNBnxsN",
       "recrzN0cYm8vE82b2"
     ],
-    "notes": "Source: Gilovich, T., Medvec, V.H., & Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211–222."
+    "notes": "Source: Gilovich, T., Medvec, V.H., & Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211\u2013222."
   },
   {
     "id": "recztDscKVPkZOu7T",
@@ -745,7 +745,7 @@
       "recQwuZR2OnhiRqCX",
       "recwZjNPyoBYJ3C0S"
     ],
-    "notes": "Source: Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7–59. Related mechanism: Kahneman, D., & Tversky, A. (1979). Prospect Theory. Econometrica, 47(2), 263–291 (loss aversion underlies the preference for the status quo)."
+    "notes": "Source: Samuelson, W., & Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7\u201359. Related mechanism: Kahneman, D., & Tversky, A. (1979). Prospect Theory. Econometrica, 47(2), 263\u2013291 (loss aversion underlies the preference for the status quo)."
   },
   {
     "id": "recnrGma4LaBHpC7L",
@@ -783,7 +783,7 @@
       "reciwdTJWAUgtFTkl",
       "recAdvy5h72mtZXUB"
     ],
-    "notes": "Source: Loftus, E.F. (1975). Leading questions and the eyewitness report. Cognitive Psychology, 7(4), 560–572."
+    "notes": "Source: Loftus, E.F. (1975). Leading questions and the eyewitness report. Cognitive Psychology, 7(4), 560\u2013572."
   },
   {
     "id": "recUVoSFSTsEUvVNT",
@@ -802,7 +802,7 @@
       "recycZGhOY0qhWTXk",
       "recEzzmeqDXF0vESM"
     ],
-    "notes": "Source: Arkes, H.R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124–140."
+    "notes": "Source: Arkes, H.R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124\u2013140."
   },
   {
     "id": "rec50OLJbCY25Om8w",
@@ -837,7 +837,7 @@
       "recrsxadx0LKIc7c7",
       "recfmkCiZjJfCEAx7"
     ],
-    "notes": "No single canonical academic source; documented across trauma, emergency medicine, and forensic psychology literature. See: Artwohl, A. (2002). Perceptual and memory distortion during officer-involved shootings. FBI Law Enforcement Bulletin, 71(10), 18–24. Note: this is a physiological/perceptual stress response, distinct from cognitive decision-making biases in the K&T tradition."
+    "notes": "No single canonical academic source; documented across trauma, emergency medicine, and forensic psychology literature. See: Artwohl, A. (2002). Perceptual and memory distortion during officer-involved shootings. FBI Law Enforcement Bulletin, 71(10), 18\u201324. Note: this is a physiological/perceptual stress response, distinct from cognitive decision-making biases in the K&T tradition."
   },
   {
     "id": "rec0q5uGjEkfd1KdJ",
@@ -856,7 +856,7 @@
       "recIEGcrF81PMN4XN",
       "rec45WDvarL4TGUYP"
     ],
-    "notes": "Source: Davison, W.P. (1983). The third-person effect in communication. Public Opinion Quarterly, 47(1), 1–15."
+    "notes": "Source: Davison, W.P. (1983). The third-person effect in communication. Public Opinion Quarterly, 47(1), 1\u201315."
   },
   {
     "id": "rec9iOtYFUtrE1nze",
@@ -874,7 +874,7 @@
       "recwENfVF2tf2aUXJ",
       "recPXlmzp3IUJlGar"
     ],
-    "notes": "Source: Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen [On finished and unfinished tasks]. Psychologische Forschung, 9, 1–85. English summary: Zeigarnik, B. (1938). In W.D. Ellis (Ed.), A Source Book of Gestalt Psychology (pp. 300–314). Harcourt Brace."
+    "notes": "Source: Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen [On finished and unfinished tasks]. Psychologische Forschung, 9, 1\u201385. English summary: Zeigarnik, B. (1938). In W.D. Ellis (Ed.), A Source Book of Gestalt Psychology (pp. 300\u2013314). Harcourt Brace."
   },
   {
     "id": "recsW3EQAk87MbGEq",
@@ -891,12 +891,12 @@
       "rec1NBpwtbo7Nttp1",
       "recwZjNPyoBYJ3C0S"
     ],
-    "notes": "Source: Viscusi, W.K., Magat, W.A., & Huber, J. (1987). An investigation of the rationality of consumer valuations of multiple health risks. RAND Journal of Economics, 18(4), 465–479. Related: Kahneman, D., & Tversky, A. (1979). Prospect Theory. Econometrica, 47(2), 263–291."
+    "notes": "Source: Viscusi, W.K., Magat, W.A., & Huber, J. (1987). An investigation of the rationality of consumer valuations of multiple health risks. RAND Journal of Economics, 18(4), 465\u2013479. Related: Kahneman, D., & Tversky, A. (1979). Prospect Theory. Econometrica, 47(2), 263\u2013291."
   },
   {
     "id": "bias_loss_aversion",
     "name": "Loss Aversion",
-    "description": "We feel losses more intensely than equivalent gains — the pain of losing something is roughly twice as powerful as the pleasure of gaining something of equal value. We are more motivated to avoid losing what we have than to acquire equivalent new value.",
+    "description": "We feel losses more intensely than equivalent gains \u2014 the pain of losing something is roughly twice as powerful as the pleasure of gaining something of equal value. We are more motivated to avoid losing what we have than to acquire equivalent new value.",
     "domain_tags": [
       "Money",
       "Belief",
@@ -911,12 +911,12 @@
       "recEzzmeqDXF0vESM",
       "recEAdiktmRSyTgbX"
     ],
-    "notes": "Added to model 2026-04-25. Core mechanism of urgency and scarcity dark patterns. Distinct from Status Quo Bias (preference for current state) and Declinism (pessimism about the future). Source: Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263–291."
+    "notes": "Added to model 2026-04-25. Core mechanism of urgency and scarcity dark patterns. Distinct from Status Quo Bias (preference for current state) and Declinism (pessimism about the future). Source: Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263\u2013291."
   },
   {
     "id": "bias_reciprocity",
     "name": "Reciprocity",
-    "description": "We feel a strong social obligation to return favors and gifts — even unsolicited ones. Receiving something creates psychological pressure to give something back, which can be exploited by offering small gifts or gestures strategically to generate a sense of indebtedness.",
+    "description": "We feel a strong social obligation to return favors and gifts \u2014 even unsolicited ones. Receiving something creates psychological pressure to give something back, which can be exploited by offering small gifts or gestures strategically to generate a sense of indebtedness.",
     "domain_tags": [
       "Social",
       "Money",
@@ -935,7 +935,7 @@
   {
     "id": "bias_social_proof",
     "name": "Social Proof",
-    "description": "Under uncertainty, we look to the actions and choices of others as information about what is correct or desirable. The more people appear to be doing something, the more we assume it is the right thing to do — regardless of whether those people had good reasons.",
+    "description": "Under uncertainty, we look to the actions and choices of others as information about what is correct or desirable. The more people appear to be doing something, the more we assume it is the right thing to do \u2014 regardless of whether those people had good reasons.",
     "domain_tags": [
       "Social",
       "Belief",
@@ -955,7 +955,7 @@
   {
     "id": "bias_mere_exposure",
     "name": "Mere Exposure Effect",
-    "description": "We develop preferences for things simply through repeated exposure, even without any conscious evaluation or positive experience. Familiarity alone generates a sense of liking and trust — meaning that any system that increases contact frequency also increases perceived trustworthiness, regardless of quality.",
+    "description": "We develop preferences for things simply through repeated exposure, even without any conscious evaluation or positive experience. Familiarity alone generates a sense of liking and trust \u2014 meaning that any system that increases contact frequency also increases perceived trustworthiness, regardless of quality.",
     "domain_tags": [
       "Memory",
       "Belief",
@@ -969,6 +969,26 @@
       "recqeY1wrFi3vaoy3",
       "recY7r8DsmnF70h9D"
     ],
-    "notes": "Added to model 2026-04-25. Distinct from Halo Effect (positive impressions transfer across traits) and Cryptomnesia (mistaking imagination for memory). Mere Exposure is purely familiarity-driven preference with no evaluation component. Particularly relevant to brand and identity tactics in agentic AI. Source: Zajonc, R.B. (1968). Attitudinal Effects of Mere Exposure. Journal of Personality and Social Psychology Monograph Supplement, 9(2), 1–27."
+    "notes": "Added to model 2026-04-25. Distinct from Halo Effect (positive impressions transfer across traits) and Cryptomnesia (mistaking imagination for memory). Mere Exposure is purely familiarity-driven preference with no evaluation component. Particularly relevant to brand and identity tactics in agentic AI. Source: Zajonc, R.B. (1968). Attitudinal Effects of Mere Exposure. Journal of Personality and Social Psychology Monograph Supplement, 9(2), 1\u201327."
+  },
+  {
+    "id": "bias_decision_fatigue",
+    "name": "Decision Fatigue",
+    "description": "After making a series of decisions or sustaining cognitive effort, our capacity for effortful deliberation degrades. We become more likely to accept defaults, defer choices, or make impulsive decisions \u2014 not because our preferences have changed, but because we are cognitively depleted. Systems that front-load complexity, require extended consent flows, or place high-stakes choices at the end of lengthy processes exploit this phenomenon deliberately: the user's decision-making quality is lowest precisely when the most consequential choices appear.",
+    "domain_tags": [
+      "Memory",
+      "Belief",
+      "Money",
+      "Learning"
+    ],
+    "risk_level": "HIGH",
+    "tactic_ids": [
+      "recwZjNPyoBYJ3C0S",
+      "rec1NBpwtbo7Nttp1",
+      "recDrGdm6igQ7pFJo",
+      "recycZGhOY0qhWTXk",
+      "tactic_opt_in_defaults"
+    ],
+    "notes": "Added to model 2026-04-28. CAT cross-reference: CAT-2022-050 (Decision Fatigue), Cognitive Attack Taxonomy (cognitiveattacktaxonomy.org). Gap identified during CAT compatibility assessment; source contributed by Sean.\n\nCORE MECHANISM: Decision fatigue describes the deterioration of decision quality following sustained cognitive effort. At peak depletion, users default to the path of least resistance \u2014 which in a dark pattern context is always the operator-preferred choice. Distinct from Status Quo Bias (recztDscKVPkZOu7T), which is a stable preference for the current state independent of effort level; decision fatigue is a state-dependent degradation of deliberative capacity.\n\nEMPIRICAL GROUNDING: Primary empirical documentation in judicial decision-making: Danziger, S., Levav, J., & Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. Proceedings of the National Academy of Sciences, 108(17), 6889\u20136892 \u2014 judges granted parole at significantly lower rates as the session wore on, defaulting to the safe/effortless option (denial) under cognitive load. Foundational ego depletion research: Baumeister, R.F., Bratslavsky, E., Muraven, M., & Tice, D.M. (1998). Ego depletion: Is the self a limited resource? Journal of Personality and Social Psychology, 74(5), 1252\u20131265.\n\nREPLICATION NOTE: The ego depletion effect (the specific glucose-based willpower mechanism) has had mixed replication results: Hagger, M.S., et al. (2016). A multilab preregistered replication of the ego-depletion effect. Perspectives on Psychological Science, 11(4), 546\u2013573. The effect size is contested; however, decision-point fatigue in naturalistic and high-stakes decision contexts (judicial, medical, financial) has robust observational support independent of the laboratory ego depletion paradigm. The description reflects the naturalistic evidence base rather than the laboratory mechanism.\n\nDESIGN EXPLOITATION PATTERN: Deliberate complexity front-loading \u2014 presenting lengthy terms, multi-page onboarding, or dense consent flows before the consequential decision \u2014 ensures users arrive at the key choice in a depleted state. Placing premium/conversion options at the end of a long decision sequence is a documented commercial application. Cookie consent UX that requires active navigation to reject non-essential cookies while acceptance is one click is a ubiquitous example.\n\nAGENTIC NOTE: Agentic AI systems can amplify decision fatigue by generating high-volume outputs, requiring user review of extended task sequences, or structuring interaction flows that exhaust the user before requesting high-stakes authorization. Ethical agentic design minimizes decision burden and front-loads consequential choices, not buries them.\n\nCounteracted by tactic_opt_in_defaults (opt-in by default removes the burden of active resistance at the depleted decision point) and tactic_scope_confirm (front-loading scope confirmation reduces the decision burden during execution)."
   }
 ]

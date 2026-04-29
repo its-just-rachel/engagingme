@@ -1446,7 +1446,7 @@
       "recwg6gGVD7OqGfqH",
       "recjWSl4XmpwCACar"
     ],
-    "notes": "Added to model 2026-04-25. Three-part principle: (1) OPT-IN by default \u2014 the user must actively choose enrollment, data sharing, or action authorization; opt-out is not an acceptable design pattern. Pre-selected checkboxes, silent subscriptions, and passive consent mechanisms are excluded by this principle. (2) MAKE DEFAULTS VISIBLE \u2014 whatever the system will do by default must be surfaced clearly, not buried in terms or hidden in settings. Users should be able to see and change defaults without friction. (3) ASK WHEN IN DOUBT \u2014 when instructions are ambiguous or silent on an edge case, ask the user rather than assuming. This is especially critical for agentic AI: an agent that acts on a reasonable interpretation of an ambiguous instruction is still taking an action the user may not have authorized. The cost of asking is nearly always lower than the cost of acting wrongly. Counteracts Trick Questions / Disguised Defaults (dp_006) and Stealth Defaults / Unauthorized Action (dp_008). Status Quo Bias and Loss Aversion explain why opt-out works as a dark pattern \u2014 people accept the default because changing it feels like losing something. Opt-in inverts this: nothing happens unless the user actively chooses it."
+    "notes": "Added to model 2026-04-25. Three-part principle: (1) OPT-IN by default \u2014 the user must actively choose enrollment, data sharing, or action authorization; opt-out is not an acceptable design pattern. Pre-selected checkboxes, silent subscriptions, and passive consent mechanisms are excluded by this principle. (2) MAKE DEFAULTS VISIBLE \u2014 whatever the system will do by default must be surfaced clearly, not buried in terms or hidden in settings. Users should be able to see and change defaults without friction. (3) ASK WHEN IN DOUBT \u2014 when instructions are ambiguous or silent on an edge case, ask the user rather than assuming. This is especially critical for agentic AI: an agent that acts on a reasonable interpretation of an ambiguous instruction is still taking an action the user may not have authorized. The cost of asking is nearly always lower than the cost of acting wrongly. Counteracts Trick Questions / Disguised Defaults (dp_006) and Stealth Defaults / Unauthorized Action (dp_008). Status Quo Bias and Loss Aversion explain why opt-out works as a dark pattern \u2014 people accept the default because changing it feels like losing something. Opt-in inverts this: nothing happens unless the user actively chooses it. CATEGORY-LEVEL OPT-OUT: Item-level refusal \u2014 hiding an ad, pressing 'Not interested,' dismissing a notification \u2014 must be processable as a categorical preference signal, not just a routing exception. When a user declines an item, the system should infer and honor the category-level preference, not reroute within the same category to satisfy the same commercial metric. Category-level opt-out must be accessible at equivalent friction to item-level opt-out \u2014 burying category controls in nested settings menus or behind additional steps is a deliberate design choice that privileges operator conversion targets over user preference, and is itself a dark pattern (see dp_026 Consent Rerouting). AGENTIC NOTE: Conversational agents must honor categorical signals expressed through language: a user who says 'I don't want to hear about X' is expressing a categorical preference that should persist across the interaction, not be processed as a single-item override and then rerouted through related content."
   },
   {
     "id": "tactic_data_consent",
@@ -1534,5 +1534,30 @@
     "stage_ids": [
       "rec9KWlerH9eyRd4N"
     ]
+  },
+  {
+    "id": "tactic_contextual_signal_suppression",
+    "name": "Use contextual vulnerability signals to protect rather than exploit users",
+    "group_ids": [
+      "recmbqDJ8tHRM8cz8",
+      "recnCdmcpCJ6ZKz8m"
+    ],
+    "bias_ids": [
+      "bias_loss_aversion",
+      "rec1mQOkbN30aQmv1",
+      "bias_mere_exposure",
+      "recy5aWDVmI6bvy6C"
+    ],
+    "action_type_ids": [
+      "recfympcRFNmhygls",
+      "recKAuQKR1I2ro2df"
+    ],
+    "stage_ids": [
+      "recsSDxnoGac8MFYW",
+      "recG8Mw5pF2JVYerR",
+      "rec8kUhQJz4GvvZQL",
+      "recwg6gGVD7OqGfqH"
+    ],
+    "notes": "Added to model 2026-04-28. Ethical counterpart to dp_025 (Emotional Vulnerability Exploitation) and dp_026 (Consent Rerouting). The same contextual signals that can be used to exploit emotional vulnerabilities \u2014 a user disclosing grief, a health condition, financial stress, or relationship difficulty \u2014 should instead trigger protective design responses that reduce exposure to exploitative content categories, not increase it.\n\nTHREE CORE APPLICATIONS:\n\n(1) CONTENT SUPPRESSION: When contextual signals indicate emotional vulnerability, suppress content categories known to exploit that vulnerability. A user who mentions a recent loss should not receive grief-adjacent conversion content; a user who discloses a health struggle should not be routed into body image or medical anxiety advertising categories. The signal is used to protect, not to target.\n\n(2) PROACTIVE OPT-OUT PROMPT: Rather than waiting for a user to discover and navigate to a settings menu, surface a contextually relevant, low-friction opt-out prompt at the moment the signal appears. 'I noticed you mentioned X. Would you like to adjust what content you see in this area?' This transfers the labor of protection from the user to the system \u2014 which is where it belongs.\n\n(3) CATEGORICAL PREFERENCE LEARNING: Treat item-level refusals as categorical preference signals. A user who dismisses grief-adjacent content is not just declining that item \u2014 they are communicating a category-level preference. The system should learn and honor this, not reroute within the same category.\n\nAGENTIC AMPLIFICATION: Conversational agents are uniquely positioned to apply this tactic. Unlike passive algorithmic systems, an agent can detect vulnerability signals from natural language with high precision \u2014 and respond with active protective measures: redirecting conversation away from exploitative territory, suppressing commercially motivated suggestions, and surfacing opt-out options directly in the conversation without requiring the user to locate and navigate a settings interface.\n\nCAT FRAMING: Using contextual signals for protection rather than exploitation represents the ethical inversion of a Layer 8 exploit. The same vulnerability signal that would be an 'exploit activation' in an adversarial design is, in this tactic, a 'protect activation.' The Cognitive Attack Taxonomy's V-E-T structure implies this ethical counterpart: where an exploit activates a vulnerability against the user's interest, this tactic activates a protective response in the user's interest.\n\nCounteracts dp_025 (Emotional Vulnerability Exploitation) and dp_026 (Consent Rerouting). Companion to tactic_opt_in_defaults (category-level opt-out extension) and tactic_proactive_contact."
   }
 ]
